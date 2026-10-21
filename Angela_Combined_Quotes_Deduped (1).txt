@@ -1,0 +1,2791 @@
+ANGELA MAGGARD — COMBINED AUDIO CLIP QUOTES (DEDUPLICATED)
+========================================================================
+Sources merged:
+  • Full catalog extract (speaker, context, quote, file path)
+  • Archive index (35 WAV + 33 MP3 high-impact quotes with timestamps & source spaces)
+
+Total unique clips after removing duplicates: 193
+Duplicates were matched by filename (stem) and merged; the richer quote text and metadata were kept.
+========================================================================
+
+------------------------------------------------------------------------
+#001  01_Evidence_Speaks_For_Itself.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: 00:37
+SOURCE: The Social Cost of Taking a Suicide Threat Seriously [20260930_1lJQRWLvWVzxE]
+
+CONTEXT: 01 Evidence Speaks For Itself
+
+QUOTE:
+Evidence speaks for itself and obviously it's enough to cause that type of reaction.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\01_Evidence_Speaks_For_Itself.wav
+
+------------------------------------------------------------------------
+#002  02_Has_Address_Phone_Personal_Info.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 12:51:21
+SOURCE: Haunted Hump Day [20260217_1vAxRvZrEPaxl]
+
+CONTEXT: 02 Has Address Phone Personal Info
+
+QUOTE:
+Because I already have their address and phone number and personal information, and I'll slap them with the lawsuit so fast. Nice. Well, at the end of the day, you do what's best for you.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\dist\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\02_Has_Address_Phone_Personal_Info.wav
+
+------------------------------------------------------------------------
+#003  03_Always_Do_That_Before_I_Talk.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 12:51:36
+SOURCE: Haunted Hump Day [20260217_1vAxRvZrEPaxl]
+
+CONTEXT: 03 Always Do That Before I Talk
+
+QUOTE:
+Oh, I always do that before I talk to someone, yeah.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\03_Always_Do_That_Before_I_Talk.wav
+
+------------------------------------------------------------------------
+#004  04_Dont_Expose_Unless_I_Need_To.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 12:51:36
+SOURCE: Haunted Hump Day [20260217_1vAxRvZrEPaxl]
+
+CONTEXT: 04 Dont Expose Unless I Need To
+
+QUOTE:
+But I don't ever expose it unless I need to. I just have it so I can get to my attorney if I need to. Oh, yeah, I feel you. Yeah, I mean, yeah.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\04_Dont_Expose_Unless_I_Need_To.wav
+
+------------------------------------------------------------------------
+#005  05_Do_That_For_Fun.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 12:51:49
+SOURCE: Haunted Hump Day [20260217_1vAxRvZrEPaxl]
+
+CONTEXT: 05 Do That For Fun
+
+QUOTE:
+Oh yeah, I do that for fun. I know that's probably bad, but that's what I do on TikTok.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\05_Do_That_For_Fun.wav
+
+------------------------------------------------------------------------
+#006  06_Send_People_To_Watch_You.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 01:52:22
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+
+CONTEXT: 06 Send People To Watch You
+
+QUOTE:
+See, the one thing I like to do is I'll send people in the community that I know in real life to watch you talk shit about me so I can see both sides.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\dist\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\06_Send_People_To_Watch_You.wav
+
+------------------------------------------------------------------------
+#007  07_Play_Dumb_For_Months.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 01:52:22
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+
+CONTEXT: 07 Play Dumb For Months
+
+QUOTE:
+Sides, and then I'll play dumb. I'll do that for months.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\07_Play_Dumb_For_Months.wav
+
+------------------------------------------------------------------------
+#008  08_Doxxed_People_Admission.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 12:56 segment
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+
+CONTEXT: 08 Doxxed People Admission
+
+QUOTE:
+But God forbid I say your name. I've doxed people. Let's not even sit here and beat around the motherfucking bush.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\08_Doxxed_People_Admission.wav
+
+------------------------------------------------------------------------
+#009  09_Doxxed_Group_Leader_Front_Door.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 12:56 segment
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+
+CONTEXT: 09 Doxxed Group Leader Front Door
+
+QUOTE:
+Fox the leader of that racist group chat. I did. I sent him the fucking front door, the photo of his front door of his house. I did the group chat, not publicly.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\dist\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\09_Doxxed_Group_Leader_Front_Door.wav
+
+------------------------------------------------------------------------
+#010  10_Doxxing_Definition_Older.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 46:11
+SOURCE: LiVE Cambian interviews TupacabraRedpandakoala UFO Shane [20260217_1mnGeAPMdvEGX]
+
+CONTEXT: 10 Doxxing Definition Older
+
+QUOTE:
+not the a b and c building but like the regular main office where the desk is there's a door directly behind it um and if you go down it it's l-shaped and then it goes to an elevator that takes you down further there's also an underground facility if you look where the rockefeller estate is on fort bragg property and then go towards pope air force base like the old you know runway and then map out going towards vast like you know towards southern pines make a triangle go in the center of the woods and you'll see an old abandoned building that's like
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\10_Doxxing_Definition_Older.wav
+
+------------------------------------------------------------------------
+#011  11_Petty_Retired_Mean_Girl.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 02:50:14
+SOURCE: Cult Signups [20260217_1lPKqbPREoeGb]
+
+CONTEXT: 11 Petty Retired Mean Girl
+
+QUOTE:
+and I am a very petty individual I'm working on it and you know it's a work in progress I'm a retired mean girl but if people
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\dist\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\11_Petty_Retired_Mean_Girl.wav
+
+------------------------------------------------------------------------
+#012  12_Not_Holding_Punches.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 02:50:14
+SOURCE: Cult Signups [20260217_1lPKqbPREoeGb]
+
+CONTEXT: 12 Not Holding Punches
+
+QUOTE:
+become active character, I'm not holding any punches back. If I get to that point where I have to, you know, hold other people accountable just so that I can move forward,
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\12_Not_Holding_Punches.wav
+
+------------------------------------------------------------------------
+#013  13_Take_It_Too_Far.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 02:52:28
+SOURCE: Cult Signups [20260217_1lPKqbPREoeGb]
+
+CONTEXT: 13 Take It Too Far
+
+QUOTE:
+later when we take it too damn far because we warned you ahead of time we told you that we don't have well i don't know about
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\13_Take_It_Too_Far.wav
+
+------------------------------------------------------------------------
+#014  14_Zero_To_100_No_Doubling_Back.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 02:52:28
+SOURCE: Cult Signups [20260217_1lPKqbPREoeGb]
+
+CONTEXT: 14 Zero To 100 No Doubling Back
+
+QUOTE:
+I have this line, and when it gets crossed, man, I go zero to 100. There's no doubling back.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\dist\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\14_Zero_To_100_No_Doubling_Back.wav
+
+------------------------------------------------------------------------
+#015  15_Wrap_You_Up_In_Lawsuits.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 02:52:28
+SOURCE: Cult Signups [20260217_1lPKqbPREoeGb]
+
+CONTEXT: 15 Wrap You Up In Lawsuits
+
+QUOTE:
+I'll wrap you up in lawsuits. I will serve you with a cease and desist. I will wrap it up for three to four years, dammit. You're going to be paying out of pocket. I'm not.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\15_Wrap_You_Up_In_Lawsuits.wav
+
+------------------------------------------------------------------------
+#016  16_Logan_This_Is_Why_I_Love_You.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 02:53:00
+SOURCE: Cult Signups [20260217_1lPKqbPREoeGb]
+
+CONTEXT: 16 Logan This Is Why I Love You
+
+QUOTE:
+Thank you. This is why I love you, Angela, because you are on the same page as I am, and we just don't give them five.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\16_Logan_This_Is_Why_I_Love_You.wav
+
+------------------------------------------------------------------------
+#017  17_Recording_Second_Device.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 02:33:55
+SOURCE: Monkey Island [20260926_1OGwbnVyavLKB]
+
+CONTEXT: 17 Recording Second Device
+
+QUOTE:
+I'm recording on my second device right now to prove it. Because when you record on this device, I know, but people be deleting shit. They delete it.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\17_Recording_Second_Device.wav
+
+------------------------------------------------------------------------
+#018  18_Getting_Everybodys_Details.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 02:41:48
+SOURCE: Monkey Island [20260926_1OGwbnVyavLKB]
+
+CONTEXT: 18 Getting Everybodys Details
+
+QUOTE:
+because i know how everybody be clipping it and sending it through the grapevine i'd be getting everybody else's details i don't
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\18_Getting_Everybodys_Details.wav
+
+------------------------------------------------------------------------
+#019  19_Android_Read_Screenshot_Everything.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 02:41:57
+SOURCE: Monkey Island [20260926_1OGwbnVyavLKB]
+
+CONTEXT: 19 Android Read Screenshot Everything
+
+QUOTE:
+Android has a glitch right now. Even if you've removed me from a group chat, I can't respond, but I can read and screenshot everything.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\19_Android_Read_Screenshot_Everything.wav
+
+------------------------------------------------------------------------
+#020  20_Infiltrating_Documenting_Discovering.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 02:43:41
+SOURCE: Monkey Island [20260926_1OGwbnVyavLKB]
+
+CONTEXT: 20 Infiltrating Documenting Discovering
+
+QUOTE:
+up because i'm not trying to be mean i do have more friends that hold security clearances
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\20_Infiltrating_Documenting_Discovering.wav
+
+------------------------------------------------------------------------
+#021  21_Collecting_NDAs_Act_Accordingly.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 01:59:56
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+
+CONTEXT: 21 Collecting NDAs Act Accordingly
+
+QUOTE:
+I know. I've been collecting NDAs, non-disclosure agreements. I infiltrate document exposed. So like what I said, when you hear bad things about me, believe it. I act accordingly.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\21_Collecting_NDAs_Act_Accordingly.wav
+
+------------------------------------------------------------------------
+#022  22_Gather_All_Perspectives.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 01:59:56
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+
+CONTEXT: 22 Gather All Perspectives
+
+QUOTE:
+I gather all evidence perspectives from different sides, not just my perspective, but the person talking shit about me.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\22_Gather_All_Perspectives.wav
+
+------------------------------------------------------------------------
+#023  23_Called_Well_Check.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 04:15
+SOURCE: The Social Cost of Taking a Suicide Threat Seriously [20260930_1lJQRWLvWVzxE]
+
+CONTEXT: 23 Called Well Check
+
+QUOTE:
+But I called a well check I did that and now
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\23_Called_Well_Check.wav
+
+------------------------------------------------------------------------
+#024  24_CPS_Husband_Not_My_Responsibility.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: 04:36
+SOURCE: The Social Cost of Taking a Suicide Threat Seriously [20260930_1lJQRWLvWVzxE]
+
+CONTEXT: 24 CPS Husband Not My Responsibility
+
+QUOTE:
+If CPS gets involved or your husband gets a hold of these messages, that is not my fault nor my responsibility.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\24_CPS_Husband_Not_My_Responsibility.wav
+
+------------------------------------------------------------------------
+#025  25_Went_To_Police_Filed_Reports.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 05:07
+SOURCE: The Social Cost of Taking a Suicide Threat Seriously [20260930_1lJQRWLvWVzxE]
+
+CONTEXT: 25 Went To Police Filed Reports
+
+QUOTE:
+And I went to the police, I filed reports.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\25_Went_To_Police_Filed_Reports.wav
+
+------------------------------------------------------------------------
+#026  26_The_Cop_Heard_It.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 05:07
+SOURCE: The Social Cost of Taking a Suicide Threat Seriously [20260930_1lJQRWLvWVzxE]
+
+CONTEXT: 26 The Cop Heard It
+
+QUOTE:
+The cop heard it
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\26_The_Cop_Heard_It.wav
+
+------------------------------------------------------------------------
+#027  27_Filed_IC3_Report.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 05:37
+SOURCE: The Social Cost of Taking a Suicide Threat Seriously [20260930_1lJQRWLvWVzxE]
+
+CONTEXT: 27 Filed IC3 Report
+
+QUOTE:
+I had to file an IC3.gov report.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\27_Filed_IC3_Report.wav
+
+------------------------------------------------------------------------
+#028  28_AI_Fucking_Porn_Claim.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 06:08
+SOURCE: The Social Cost of Taking a Suicide Threat Seriously [20260930_1lJQRWLvWVzxE]
+
+CONTEXT: 28 AI Fucking Porn Claim
+
+QUOTE:
+AI fucking porn videos of people jacking off in fucking spaces, sharing fucking nudes of all these women on X, and you can't.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\dist\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\28_AI_Fucking_Porn_Claim.wav
+
+------------------------------------------------------------------------
+#029  29_PowerPoint_Ready_For_Court.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 08:00
+SOURCE: The Social Cost of Taking a Suicide Threat Seriously [20260930_1lJQRWLvWVzxE]
+
+CONTEXT: 29 PowerPoint Ready For Court
+
+QUOTE:
+PowerPoint presentation together and getting everything ready for court.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\29_PowerPoint_Ready_For_Court.wav
+
+------------------------------------------------------------------------
+#030  30_Going_To_Bankrupt_I_Mean_It.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 08:00
+SOURCE: The Social Cost of Taking a Suicide Threat Seriously [20260930_1lJQRWLvWVzxE]
+
+CONTEXT: 30 Going To Bankrupt I Mean It
+
+QUOTE:
+Because when I told them if they're going to continue, I'm going to bankrupt, I really mean it.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\30_Going_To_Bankrupt_I_Mean_It.wav
+
+------------------------------------------------------------------------
+#031  31_Predator_Problem.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 02:08:43 / 04:05
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+
+CONTEXT: 31 Predator Problem
+
+QUOTE:
+Because no, we have a predator problem on the sap.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\31_Predator_Problem.wav
+
+------------------------------------------------------------------------
+#032  32_Called_You_A_Predator.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 02:08:43 / 04:07
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+
+CONTEXT: 32 Called You A Predator
+
+QUOTE:
+I didn't call you a fucking pedophile. I called you a predator because that is what you are. The behavior is predatory.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\32_Called_You_A_Predator.wav
+
+------------------------------------------------------------------------
+#033  33_Impressionable_Girls_Trauma.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 04:18
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+
+CONTEXT: 33 Impressionable Girls Trauma
+
+QUOTE:
+impressionable girls with trauma issues, and then you triangulate them again.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\33_Impressionable_Girls_Trauma.wav
+
+------------------------------------------------------------------------
+#034  34_Text_Messages_Will_Prove_It.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 04:22
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+
+CONTEXT: 34 Text Messages Will Prove It
+
+QUOTE:
+And these text messages are going to prove that.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\34_Text_Messages_Will_Prove_It.wav
+
+------------------------------------------------------------------------
+#035  35_Look_At_Spaces_Read_Text.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 08:08
+SOURCE: The Social Cost of Taking a Suicide Threat Seriously [20260930_1lJQRWLvWVzxE]
+
+CONTEXT: 35 Look At Spaces Read Text
+
+QUOTE:
+Look at my spaces, look at their spaces, read the texts, see the dynamic, and then come to up to your own conclusions.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\35_Look_At_Spaces_Read_Text.wav
+
+------------------------------------------------------------------------
+#036  AQ-0001_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 1:31
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+]
+CONTEXT: [AQ-0001] Accusation / abuse / triangulation
+
+QUOTE:
+The issue that you have with me is that I called you out for making my friend, who I've known for a year and a half before you ever started dating her, suicidal... At the end of the fucking day, I don't think that I am wrong, um, for confronting him on the abuse. I should have never been triangulated in the first fucking place. Let's just jot that the hell down.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0001_Angela.wav
+
+------------------------------------------------------------------------
+#037  AQ-0002_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 4:04
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+]
+CONTEXT: [AQ-0002] Accusation / predator allegation
+
+QUOTE:
+Because, no, we have a predator problem on this app. I didn't call you a fucking pedophile. I called you a predator because that is what you are. The behavior is predatory. You seek out impressionable girls with trauma issues, and then you triangulate them against each other.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0002_Angela.wav
+
+------------------------------------------------------------------------
+#038  AQ-0003_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 4:20
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+]
+CONTEXT: [AQ-0003] Documentation / evidence presentation
+
+QUOTE:
+And these text messages are going to prove that. Um, so I'll just get down and dirty with them. I'm a start posting them down below in the chat.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0003_Angela.wav
+
+------------------------------------------------------------------------
+#039  AQ-0004_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 15:06
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+]
+CONTEXT: [AQ-0004] Self-description / conflict philosophy
+
+QUOTE:
+Because at the end of the day, if push comes to shove and I have to prove that I am not the fucking liar, I will do so because that is my number one trigger is being called a liar. I don't like it at all, and I don't like predators.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0004_Angela.wav
+
+------------------------------------------------------------------------
+#040  AQ-0005_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 16:46
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+]
+CONTEXT: [AQ-0005] Doxxing admission
+
+QUOTE:
+I've doxed people. Let's not even sit here and beat around the motherfucking bush.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0005_Angela.wav
+
+------------------------------------------------------------------------
+#041  AQ-0006_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 17:15
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+]
+CONTEXT: [AQ-0006] Doxxing admission / retaliation
+
+QUOTE:
+So, yes, I doxed the leader of that racist group chat. I did. I sent him the fucking front door, the photo of his front door of his house. I did in the group chat, not publicly, because how fucking dare you threaten my... I'm sorry. I'm not gonna apologize for my reaction.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0006_Angela.wav
+
+------------------------------------------------------------------------
+#042  AQ-0007_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 17:51
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+]
+CONTEXT: [AQ-0007] Conflict philosophy / scorched earth
+
+QUOTE:
+That's why I've told all my mutual friends that I cannot be friends anymore. Because if I'm gonna be put in the position to where I have to choose between telling the truth and being friends, I'm sorry to hurt your feelings, but I'm going to choose the truth.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0007_Angela.wav
+
+------------------------------------------------------------------------
+#043  AQ-0008_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 18:19
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+]
+CONTEXT: [AQ-0008] Accusation / sexual conduct / revenge porn
+
+QUOTE:
+Logan's one of many people. He was not even the initial person I was talking about this. But you have men on here sharing nudes of women in in in DMs. Multiple women. Okay? And I'm not I understand the other side of the shoe where the women are sharing the photos. I'm not gonna slut shame. Revenge porn is real. Okay?
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0008_Angela.wav
+
+------------------------------------------------------------------------
+#044  AQ-0009_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 21:10
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+]
+CONTEXT: [AQ-0009] Accusation / minors allegation / threat
+
+QUOTE:
+Do you want me to post the photos below of of Logan with the 13 year old? Do you want me to just tit for tat, motherfucker, since I can't speak on an abroad since without having to speak by names?
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0009_Angela.wav
+
+------------------------------------------------------------------------
+#045  AQ-0010_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 23:23
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+]
+CONTEXT: [AQ-0010] Accusation / conflict origin
+
+QUOTE:
+Stop propping up predators... that's the whole reason why me and Lana aren't talking right now is because of how he was treating me when I was speaking in spaces about what I went through. 'Oh, you're trauma dumping. Oh, you're doing this. Oh, you're doing that.'
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0010_Angela.wav
+
+------------------------------------------------------------------------
+#046  AQ-0011_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 28:50
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+]
+CONTEXT: [AQ-0011] Self-description / backstory
+
+QUOTE:
+I was kidnapped as a baby and illegally adopted into a CIA mind control program... that is why my entire online presence is a paper trail.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0011_Angela.wav
+
+------------------------------------------------------------------------
+#047  AQ-0012_Angela.wav
+
+SPEAKER: Angela; adjacent question/speaker split unresolved
+TIMESTAMP: 40:45
+SOURCE: Hook Line Sinker — corrected text location [20260908_1nGeLMjONkAKX]
+]
+CONTEXT: [AQ-0012] Self-description / documentation methods
+
+QUOTE:
+No I said I'm a walking paper trail. What do you mean by that? Like my entire online persona and stuff is evidence. I'm a whistleblower who came here to share truth and dealt with psychological operations, trying to hinder and silence my story from ever going mainstream.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0012_Angela.wav
+
+------------------------------------------------------------------------
+#048  AQ-0013_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 53:58
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+]
+CONTEXT: [AQ-0013] Accusation / abuse characterization
+
+QUOTE:
+You call a girl a dog and tell her to sit and bark and roll over? Would you tell her that she's worthless and that she's trash and she should have kids taken away? Would you sit there and tell her that she is not worthy of you, that she is sick in the fucking head, and that she needs to raise herself up to be better suited for a man of his caliber? Would you say that? Because he did. Read it down below.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0013_Angela.wav
+
+------------------------------------------------------------------------
+#049  AQ-0014_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 52:09
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+]
+CONTEXT: [AQ-0014] Threat / retaliation / escalation
+
+QUOTE:
+I will burn Logan 14 times over before I let him drag my name.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0014_Angela.wav
+
+------------------------------------------------------------------------
+#050  AQ-0015_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 59:18
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+]
+CONTEXT: [AQ-0015] Evidence / leverage / private recordings
+
+QUOTE:
+Logan isn't even the big bad wolf in all of this shit. There's worse. Okay? And, um, I didn't even wanna have to do this. I asked for change behavior and to pivot... And I even utilized this manner because I felt like it was less abrasive than the screen recordings and the clips I have. Because most of our conversation is in voice clips. And the voice clips, there's no, like, interpretation. You can hear it.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0015_Angela.wav
+
+------------------------------------------------------------------------
+#051  AQ-0016_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 64:23
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+]
+CONTEXT: [AQ-0016] Conflict philosophy / dossier / monitoring
+
+QUOTE:
+I'm a very patient person, and I'm very calculated, and I have everything documented not to create a fucking trail of evidence against all of you... so I just documented all the abuse and put it in a private discord with nobody else in there. I didn't weaponize the information. I sat on it until I was poked and poked and poked and poked and then slapped around. Then I said, fuck it. I threw it all in the fuck it bucket.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0016_Angela.wav
+
+------------------------------------------------------------------------
+#052  AQ-0017_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 67:20
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+]
+CONTEXT: [AQ-0017] Retaliation / legal pressure
+
+QUOTE:
+I hired somebody for that specific retaliation just in case, and everything is legally already in the works. I just I'm hoping I don't have to follow through because real life doesn't take into consideration your emotions, what you're going through.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0017_Angela.wav
+
+------------------------------------------------------------------------
+#053  AQ-0018_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 78:31
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+]
+CONTEXT: [AQ-0018] Legal threat / criminal allegation / reporting
+
+QUOTE:
+Did you get the clip where he said he wanted to put me in a wood chipper? Because I'll press charges, and I will warn her. So I did forward all that up... First of all, it's a felony to communicate a death threat across state lines. Jot that the fuck down. A lot of y'all need to learn that.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0018_Angela.wav
+
+------------------------------------------------------------------------
+#054  AQ-0019_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 81:17
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+]
+CONTEXT: [AQ-0019] Triangulation / Logan and Sav dynamic
+
+QUOTE:
+She said, 'second fiddle, Logan. You trump everyone clearly.' And then he says, 'then pick a side. Block her. It's either me or it's her. It cannot be both.' And she said, 'Logan, stop that now. This is insane. You need to breathe.' And he says, 'I already know the answer, which is why I'm forcing the issue.'
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0019_Angela.wav
+
+------------------------------------------------------------------------
+#055  AQ-0020_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 44:23
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+]
+CONTEXT: [AQ-0020] Retaliation / escalation
+
+QUOTE:
+Logan motherfucking black, when the fuck did I harass you other than when I just addressed you multiple times over you fuck with my friend? And I did it in the DMs, did I not? Like, 40 fucking times before we went public. Don't come twist it at me.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0020_Angela.wav
+
+------------------------------------------------------------------------
+#056  AQ-0021_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 97:20
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+]
+CONTEXT: [AQ-0021] Accusation / rape allegation / investigation
+
+QUOTE:
+I said I wanted to confront you like an adult instead of going public with what I heard because I don't know the real issue, but a few accounts on here have already messaged me saying that you were an abuser and that you were a rapist. I want to know your perspective before I act. As you know, I take this topic very seriously. There are a few other accounts on here that I'm actively trying to expose for similar issues. Is there any validity to these claims? If so, I would hope that you would air it out.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0021_Angela.wav
+
+------------------------------------------------------------------------
+#057  AQ-0022_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 96:56
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+]
+CONTEXT: [AQ-0022] Self-description / conflict philosophy / legal threats
+
+QUOTE:
+So I screenshotted that, and I went to my other account, and I sent it because I will have the motherfucking last word. Anyways, now we're at the legal public threat. Attorney police air it out. Process used as a club, both sides, myself included.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0022_Angela.wav
+
+------------------------------------------------------------------------
+#058  AQ-0023_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 111:21
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+]
+CONTEXT: [AQ-0023] Law enforcement / FBI / surveillance threat
+
+QUOTE:
+Oh, I'm not worried because I've been in contact with the FBI for a while, and I'd I'd just say to most of you guys on here, I'm the least of your concerns right now because y'all been being watched for a while. If you notice, there's a few people no longer here.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0023_Angela.wav
+
+------------------------------------------------------------------------
+#059  AQ-0024_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 112:22
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+]
+CONTEXT: [AQ-0024] Monitoring / infiltration / covert gathering
+
+QUOTE:
+See, the one thing I like to do is I'll send people in the community that I know in real life to watch you talk shit about me so I can see both sides, and then I'll play dumb. I'll do that for months.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0024_Angela.wav
+
+------------------------------------------------------------------------
+#060  AQ-0025_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 117:14
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+]
+CONTEXT: [AQ-0025] Self-description / confession principle
+
+QUOTE:
+I'm gonna tell on you. I have to tell on myself. Otherwise, I'm a hypocrite. You know what I mean?
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0025_Angela.wav
+
+------------------------------------------------------------------------
+#061  AQ-0026_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 117:51
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+]
+CONTEXT: [AQ-0026] Accusation / abuse / harem claim
+
+QUOTE:
+The issue is because he is abusive to women in the back channels. He triangulates them against each other. Right? He has this little harem of followers and people he builds up.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0026_Angela.wav
+
+------------------------------------------------------------------------
+#062  AQ-0027_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 119:56
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+]
+CONTEXT: [AQ-0027] Self-description / infiltration / method
+
+QUOTE:
+I've been collecting NDAs, nondisclosure agreements. I infiltrate, document, expose. So like what I said, when you hear bad things about me, believe it. I act accordingly. I gather all evidence perspectives from different sides, not just my personal feeling.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0027_Angela.wav
+
+------------------------------------------------------------------------
+#063  AQ-0028_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 53:07
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+]
+CONTEXT: [AQ-0028] Accusation / AI porn / minors allegation
+
+QUOTE:
+You're platforming predators and you're making excuses for people that have AI nudes of minors.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0028_Angela.wav
+
+------------------------------------------------------------------------
+#064  AQ-0029_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 122:47
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+]
+CONTEXT: [AQ-0029] Threat / physical violence / insult
+
+QUOTE:
+I will say from just the screenshots alone, if you ever called me a prostitute or solicited pimping me the fuck out, I will beat you like a redhead stepchild, and that is with all due respect.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0029_Angela.wav
+
+------------------------------------------------------------------------
+#065  AQ-0030_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 123:25
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+]
+CONTEXT: [AQ-0030] Investigation / witnesses / legal framing
+
+QUOTE:
+Why are you dropping names of witnesses, dog? Oh, what do you mean? That she's on here. Right. But you also harassed those victims, girl. Maybe we can talk offline because I don't know what she's like.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0030_Angela.wav
+
+------------------------------------------------------------------------
+#066  AQ-0049_Angela_diarized_as_S.wav
+
+SPEAKER: Angela (diarized as Speaker 1)
+TIMESTAMP: 2:47
+SOURCE: Uncensored Truth Not Your Therapist - Angela and SaraBeth Truth Hour [20260906_1nGnRBnpYdXGO]
+]
+CONTEXT: [AQ-0049] Sav relationship / daily dynamic
+
+QUOTE:
+Do we know where Sav is? Is she awake yet? She might still be napping. She needed to. She was grumpy. I'm not even being mean. She was. She needed a nap. It has been a day.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0049_Angela_diarized_as_S.wav
+
+------------------------------------------------------------------------
+#067  AQ-0050_Angela_diarized_as_S.wav
+
+SPEAKER: Angela (diarized as Speaker 1)
+TIMESTAMP: 16:20
+SOURCE: Uncensored Truth Not Your Therapist - Angela and SaraBeth Truth Hour [20260906_1nGnRBnpYdXGO]
+]
+CONTEXT: [AQ-0050] Conflict style / mission statement
+
+QUOTE:
+Guns a blazing, wanting to expose this shit because I came into these communities, they talk about it, but they didn't have no evidence. They weren't trying to do nothing with it.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0050_Angela_diarized_as_S.wav
+
+------------------------------------------------------------------------
+#068  AQ-0051_Angela_diarized_as_S.wav
+
+SPEAKER: Angela (diarized as Speaker 1)
+TIMESTAMP: 20:28
+SOURCE: Uncensored Truth Not Your Therapist - Angela and SaraBeth Truth Hour [20260906_1nGnRBnpYdXGO]
+]
+CONTEXT: [AQ-0051] Insult / challenge / conflict style
+
+QUOTE:
+Fuck you from the bottom of my heart. Say that to my face. And I mean that. I don't think you have the balls. And I don't understand why you think I'm scary. Is it because I'm not scared of you? Are you scared of the truth? Because I'll take a lie detector, bitch. Will you? I don't think you will.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0051_Angela_diarized_as_S.wav
+
+------------------------------------------------------------------------
+#069  AQ-0052_Angela_diarized_as_S.wav
+
+SPEAKER: Angela (diarized as Speaker 1)
+TIMESTAMP: 21:42
+SOURCE: Uncensored Truth Not Your Therapist - Angela and SaraBeth Truth Hour [20260906_1nGnRBnpYdXGO]
+]
+CONTEXT: [AQ-0052] Legal awareness / recording calls / warning
+
+QUOTE:
+I had not seen or heard the recording. I just heard her testimony. And remember, I live in a one-party consent state, motherfuckers. Y'all gonna stop fucking with me.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0052_Angela_diarized_as_S.wav
+
+------------------------------------------------------------------------
+#070  AQ-0053_Angela_diarized_as_S.wav
+
+SPEAKER: Angela (diarized as Speaker 1)
+TIMESTAMP: 23:44
+SOURCE: Uncensored Truth Not Your Therapist - Angela and SaraBeth Truth Hour [20260906_1nGnRBnpYdXGO]
+]
+CONTEXT: [AQ-0053] Legal threats / police reports / defamation claims
+
+QUOTE:
+Every action has a reaction. You're not going to sit here and get mad at me because I'm filing a police report. Or I'm, we're going to have legal ramifications because you want to sit here and slander and defame my character and run your mouth on a muck for days on end... You understand the burden of proof falls on you, right? So you have to prove all that stuff.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0053_Angela_diarized_as_S.wav
+
+------------------------------------------------------------------------
+#071  AQ-0054_Angela_diarized_as_S.wav
+
+SPEAKER: Angela (diarized as Speaker 1)
+TIMESTAMP: 26:13
+SOURCE: Uncensored Truth Not Your Therapist - Angela and SaraBeth Truth Hour [20260906_1nGnRBnpYdXGO]
+]
+CONTEXT: [AQ-0054] Self-description / receipts / motivation
+
+QUOTE:
+Because I'm a petty person. I'm not even going to sit there and act like I'm not. And I don't like it when people call me a liar. So I like to prove receipts. And the only time I ever host a space is usually to state my side because I can never get a mic or I always get muted or silenced.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0054_Angela_diarized_as_S.wav
+
+------------------------------------------------------------------------
+#072  AQ-0055_Angela_diarized_as_S.wav
+
+SPEAKER: Angela (diarized as Speaker 1)
+TIMESTAMP: 26:59
+SOURCE: Uncensored Truth Not Your Therapist - Angela and SaraBeth Truth Hour [20260906_1nGnRBnpYdXGO]
+]
+CONTEXT: [AQ-0055] Self-description / passive aggression
+
+QUOTE:
+Because I like to prank. Pranking is a passive aggressive way to like, you know. And farts are funny. Let's be real.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0055_Angela_diarized_as_S.wav
+
+------------------------------------------------------------------------
+#073  AQ-0056_Angela_diarized_as_S.wav
+
+SPEAKER: Angela (diarized as Speaker 1)
+TIMESTAMP: 95:43
+SOURCE: Uncensored Truth Not Your Therapist - Angela and SaraBeth Truth Hour [20260906_1nGnRBnpYdXGO]
+]
+CONTEXT: [AQ-0056] Challenge / financial offer / investigation dare
+
+QUOTE:
+I've offered these people money to prove me wrong. Instead of fucking smear campaigning me and having fucking spaces cracked out for fucking days on end, go through my story and discredit me. Go through my family and tell me I'm wrong. What are you so scared of?
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0056_Angela_diarized_as_S.wav
+
+------------------------------------------------------------------------
+#074  AQ-0057_Angela_diarized_as_S.wav
+
+SPEAKER: Angela (diarized as Speaker 1)
+TIMESTAMP: 99:25
+SOURCE: Uncensored Truth Not Your Therapist - Angela and SaraBeth Truth Hour [20260906_1nGnRBnpYdXGO]
+]
+CONTEXT: [AQ-0057] Backstory / documentation origin / relationship with Logan
+
+QUOTE:
+The only reason I'm standing is because my father utilized the time he had in between deployments after he got custody of me to teach me hypervigilance. To teach me to keep going. You know, and it was abusive in a way. But it also taught me how to go... You killed my dad on Father's Day. And that started me digging and researching... And I've filed the police reports. When I say when they finally look, especially with my digital paper trail on here, which is incidentally funny, the very first space I ever spoken on this app and most of the spaces I would go into was signs. That's where I got my story out from start to finish from the first. And the second ones was Logan.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0057_Angela_diarized_as_S.wav
+
+------------------------------------------------------------------------
+#075  AQ-0175_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 27:16
+SOURCE: CRACKHEADS TAKING OVER DISCLOSURE - HERES YOUR SINE [20260907_1OxwbneDwBqJB]
+]
+CONTEXT: [AQ-0175] Accusation / betrayal / DMs to Logan / friends refusing to flip tables
+
+QUOTE:
+these people want it's sign logan all of them i post all this into their dms i ask for help from my supposed fucking friends that always come to me when they need something and that's great because that's the type of friend i am and i'll continue to do that but it's also really um enlightening when you go through something like that especially when your kids are being exploited and threatened and and you realize that that those people that count on you you can't count on them that they would rather be allowed to sit at all these tables um than to flip it
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0175_Angela.wav
+
+------------------------------------------------------------------------
+#076  AQ-0176_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 31:44
+SOURCE: CRACKHEADS TAKING OVER DISCLOSURE - HERES YOUR SINE [20260907_1OxwbneDwBqJB]
+]
+CONTEXT: [AQ-0176] Victim-perpetrator inversion / 'we're the villains' / classified evidence
+
+QUOTE:
+And you know, you fucked up when you have the very people that came to you for fucking help with actual, tangible, classified evidence. And this is where you got us. But we're the villains.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0176_Angela.wav
+
+------------------------------------------------------------------------
+#077  AQ-0177_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 34:20
+SOURCE: CRACKHEADS TAKING OVER DISCLOSURE - HERES YOUR SINE [20260907_1OxwbneDwBqJB]
+]
+CONTEXT: [AQ-0177] Recording conversations / one-party consent / privacy vs proof
+
+QUOTE:
+I live in a one-party consent state. I can document. And I do because I don't like being called a liar. And apparently that's what makes me the villain is because I can prove that when these people will lie and that's more of an issue for invading their privacy and their trust.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0177_Angela.wav
+
+------------------------------------------------------------------------
+#078  AQ-0178_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 35:19
+SOURCE: CRACKHEADS TAKING OVER DISCLOSURE - HERES YOUR SINE [20260907_1OxwbneDwBqJB]
+]
+CONTEXT: [AQ-0178] Conflict philosophy / 'not here for friends' / refusal to back down
+
+QUOTE:
+I told them, I was like, look, I'm not here for friends. You know what I mean? Like if that'd be nice, but like I've learned along the way that you cannot have friendships and chase truth because people will weaponize and try to control your brain to fit like their brain thinks and we're not here for the same reasons... I'm very prideful. I'm not turning my cheek. I'm not going to be complicit and you are not running me the fuck off this app. I'm not going anywhere.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0178_Angela.wav
+
+------------------------------------------------------------------------
+#079  AQ-0179_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 36:48
+SOURCE: CRACKHEADS TAKING OVER DISCLOSURE - HERES YOUR SINE [20260907_1OxwbneDwBqJB]
+]
+CONTEXT: [AQ-0179] Surveillance & clipping / 'demonically possessed' / late-night deleted spaces
+
+QUOTE:
+I just look at them like they're demonically possessed, bro, because like I've seen some of these people I've had meaningful conversations with some of them and to see the shift in their personality over the last year and a half because really it was like last August is when I started noticing like some really weird shit. And I, I clipped it all because I was like, yo, all y'all said, y'all don't get along. You guys are from different communities. Why are y'all in a space at three o'clock in the fucking morning? And why directly after you delete the space? And I'm talking about like, there was Tupa, Panda, Logan, um, Reptile Hybrid, um, Kumar, um, Gary, Grinbell, like all of them. And I'm like, yo, this is weird. This is fucking weird. Um, and when I confronted him about it, they gaslit me and acted like I was, I was crazy.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0179_Angela.wav
+
+------------------------------------------------------------------------
+#080  AQ-0180_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 38:14
+SOURCE: CRACKHEADS TAKING OVER DISCLOSURE - HERES YOUR SINE [20260907_1OxwbneDwBqJB]
+]
+CONTEXT: [AQ-0180] Threat of releasing screenshots / targeting Logan
+
+QUOTE:
+Logan's still and I don't, whatever. But if I showed the fucking screenshots I have of what he said and what he's done, all of you guys, that's the thing is like
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0180_Angela.wav
+
+------------------------------------------------------------------------
+#081  AQ-0181_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 39:08
+SOURCE: CRACKHEADS TAKING OVER DISCLOSURE - HERES YOUR SINE [20260907_1OxwbneDwBqJB]
+]
+CONTEXT: [AQ-0181] Book documentation / 'digital footprint' / 'never strike first, hit harder'
+
+QUOTE:
+A survivor's guide to navigating the UFO Twitterverse and it's literally based off of all of this shit. All of it. And it started as therapy. It started as a way to like cope with all the bullshit. Then it turned into like a digital footprint of the fuckery and these. And once you see the patterns, you can't unsee them... You're going to hear good things about me. You're going to hear bad things about me. Believe them both. Okay? I act accordingly. I never strike first, but I do hit harder.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0181_Angela.wav
+
+------------------------------------------------------------------------
+#082  AQ-0182_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 41:09
+SOURCE: CRACKHEADS TAKING OVER DISCLOSURE - HERES YOUR SINE [20260907_1OxwbneDwBqJB]
+]
+CONTEXT: [AQ-0182] Recording phone calls / 45-minute recording / preparation for courtroom
+
+QUOTE:
+i live in a one-party consent state so i can record my phone calls so i have the 45 minute conversation recorded it is not for twitter um it is for a courtroom it is for any document you know what i mean like i'm not here i don't care if people follow me or not i stopped paying for my check mark because if we're going to be real i'm just disappointed with the app altogether currently
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0182_Angela.wav
+
+------------------------------------------------------------------------
+#083  AQ-0183_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 42:00
+SOURCE: CRACKHEADS TAKING OVER DISCLOSURE - HERES YOUR SINE [20260907_1OxwbneDwBqJB]
+]
+CONTEXT: [AQ-0183] Filing reports / reporting to authorities / self-justification
+
+QUOTE:
+apparently i mean i filed a report i reported all of that and i'm gonna sit there and act like i didn't i didn't do it to be malicious but at the end of the day i i was one of those kids that wanted someone to come help and they never fucking did so um and i i just i'm not ever gonna turn my cheek to any of those allegations and i would hope if you ever heard something like that that you would do your due diligence to do the right thing too
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0183_Angela.wav
+
+------------------------------------------------------------------------
+#084  AQ-0184_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 46:59
+SOURCE: CRACKHEADS TAKING OVER DISCLOSURE - HERES YOUR SINE [20260907_1OxwbneDwBqJB]
+]
+CONTEXT: [AQ-0184] Legal semantics / 'predator' vs 'pedophile' / psychological warfare & CIA grandmother
+
+QUOTE:
+no that's why i called him a predator so you'll hear me i say a predator predator supporter because the predator definition is you know grooming... that's a very broad term so that's why i use the term that i do specifically for legal purposes i don't call him a child predator you know i say child predator yeah because that's exactly what the allegation was i didn't say pedophile because i haven't seen physical proof i've heard testimony... why he sat there and platformed all the people that have threatened my life exploited me harassed me made fake accounts not only impersonating myself but my grandmother who worked for the cia that's that's that's a federal offense by the way... I was trying to expose an extremely organized group on here that is going from community to community running psychological warfare tactics
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0184_Angela.wav
+
+------------------------------------------------------------------------
+#085  AQ-0185_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 51:31
+SOURCE: CRACKHEADS TAKING OVER DISCLOSURE - HERES YOUR SINE [20260907_1OxwbneDwBqJB]
+]
+CONTEXT: [AQ-0185] Self-framing / hosting spaces only to 'correct slander' / real-world responsibilities
+
+QUOTE:
+the only time i ever host a space is just to correct the the slander and i usually push it off because i'm a procrastinator and i have a real life and i have a job and i have kids and you know stuff like that uh but yeah so all my spaces are i'm not trying to be a mean bro but like ophelia is my friend she's another survivor she's been through shit and we're not trying to be triggered right now
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0185_Angela.wav
+
+------------------------------------------------------------------------
+#086  AQ-0186_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 54:45
+SOURCE: CRACKHEADS TAKING OVER DISCLOSURE - HERES YOUR SINE [20260907_1OxwbneDwBqJB]
+]
+CONTEXT: [AQ-0186] Autobiographical narrative / father murdered / 'walking paper trail'
+
+QUOTE:
+yes that's my father master sergeant steven maggory... he was murdered for they killed him for exposing his unit for human and drug trafficking he whistled um on war crimes against humanity that he had seen plus my dad was handed a baby the day he became a green beret so i'm a walking paper trail of um human trafficking and military operations... they murdered my mom on my birthday and then they murdered my father on father's
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0186_Angela.wav
+
+------------------------------------------------------------------------
+#087  AQ-0187_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 54:08
+SOURCE: CRACKHEADS TAKING OVER DISCLOSURE - HERES YOUR SINE [20260907_1OxwbneDwBqJB]
+]
+CONTEXT: [AQ-0187] Threat / 'run for their money' / warning against targeting survivors
+
+QUOTE:
+i'm gonna give them a run for their money there are people you attack online and there's people you don't you shouldn't go after survivors because there's a reason they're still standing
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0187_Angela.wav
+
+------------------------------------------------------------------------
+#088  AQ-0188_Angela.wav
+
+SPEAKER: Angela
+TIMESTAMP: 57:10
+SOURCE: CRACKHEADS TAKING OVER DISCLOSURE - HERES YOUR SINE [20260907_1OxwbneDwBqJB]
+]
+CONTEXT: [AQ-0188] Scorched-earth closing / process serving / 'believe them both' / villain persona
+
+QUOTE:
+Furthermore, I'll just reiterate, like I said in the beginning of the space, you're going to hear good things about me, and you're going to hear bad things about me. Believe them both. I act accordingly, and I never started a fight. I only finish it. So I only apologize for you thinking that I was an easy target... And you can cry about me having your ass served all you want, but if you're going to continue to slander my name, defame my character, and expect me to just eat it and take it, you've mistaken yourself. I'm not doing that anymore. I'm okay with being the villain in your story if that's how you want to write me in your book. But I'm writing my own book. And I get to decide what's going to be on the next page, and that's not how my story ends... I think you're drinking too many BPA water bottles because, you know, BPA mimics estrogen in men... try again next year because you have from March to June to trigger this hoe to get that result. And you failed this year.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0188_Angela.wav
+
+------------------------------------------------------------------------
+#089  AQ-0199_Cambian.wav
+
+SPEAKER: Cambian
+TIMESTAMP: 24:33
+SOURCE: Angela Maggard fan club [20260918_1AxRnZMeZNYxl]
+]
+CONTEXT: [AQ-0199] Third-party testimony / psychological profiling / vigilante crusade / cloud drive illicit evidence hoarding
+
+QUOTE:
+No. You became a symbol for what she was not able to, uh, manipulate and coerce with her narrative. That's as simple as it is. Like, she's very used to going and, like, throwing her weight around with all this stuff that she's memorized and, you know, recites very quickly about her story and her things. And and, like, when that stopped and people are like, hey. You know? Are you doing healthy things in your life instead of obsessing over this? Well, you become the enemy then at that point. It's like and in her mind, you you're standing in front of her vigilante justice for truth, and that makes, you know, you an obstruction of justice. And the thing is, like, she doesn't have any authority. She is not justice. In fact, I I would like to see somebody look through all of her cloud accounts for all this, uh, pedophilia evidence she's been amassing over the years. Please, someone go look into Angela's stuff. That stuff should not be sitting on a hard drive for any any creep to hack in and get their hands on it. She doesn't have the credentials. She shouldn't be handling that stuff.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0199_Cambian.wav
+
+------------------------------------------------------------------------
+#090  AQ-0200_Logan.wav
+
+SPEAKER: Logan
+TIMESTAMP: 23:14
+SOURCE: Angela Maggard fan club [20260918_1AxRnZMeZNYxl]
+]
+CONTEXT: [AQ-0200] Third-party testimony / Sav exploitation / screenshot weaponization / one-sided campaign
+
+QUOTE:
+I feel bad for Seth because calm down here. Uh, she, um, she, uh, I I know she did, like, the whole thing about, like, showing, like, private screenshots that, like, you would never share if, like, you're talking to someone that could privately write, but, like, I understand she has her own weaknesses and she gets mad at you know, people get mad at us stuff and then we're all at our own, like, place in our own lives about, like, how mature we are about certain things or whatever the case may be. Right? And I I forgive her for the stuff. It's not like a it's not a big deal anyway, but, uh, people are gonna think what they're gonna think. So, uh, but she's but she feels she feels, like, mortified. Right? That, like, she gave the stuff to, like, this person to, like, a in a moment of, like, real anger and this person, like, uh, took advantage of that and, like, use it to, like, uh, try to burn me down. Right? But, like, but it doesn't really, um, I'm kinda, like, used to, like, the burning after a few years. Right? But, like, for Sev, this is, like, a total, like, nightmare for her. Right? That people are talking about her. Like, isn't this kind of way? It's a total fucking she she's beside herself. Right? So, like, I feel kind of real bad for her about that. Because I mean, she told her to, like, take it down. Right? That's this isn't right. It's not what she wants to take it down. Right? But she still wanna take it down because she wants to burn me so bad. Right? And for what? What did he even do to her? I don't know. So that's that's the, yeah, just pickle about it. I don't know. But I don't know what to do about it. Because like I said, I haven't done anything. So, like, I don't know where the resolution is. It's not like a a b for, like, a war. Right? It's one-sided. So
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0200_Logan.wav
+
+------------------------------------------------------------------------
+#091  AQ-0201_Logan.wav
+
+SPEAKER: Logan
+TIMESTAMP: 36:11
+SOURCE: Angela Maggard fan club [20260918_1AxRnZMeZNYxl]
+]
+CONTEXT: [AQ-0201] Third-party testimony / Sav suicide crisis / welfare check address coordination / verbal abuse
+
+QUOTE:
+And it's actually you know, I've never talked with, uh, well, yeah, I I don't I don't know if I've ever talked with her in a, uh, space with that at the same time as that. Before numerous times. That that yeah. She was not having a good day. I got Jason Sams in my DM to tell me she's suicidal. Not what do? He opened a fucking space. Did he give a shit about your life? No. I had to go through Sarah Beth to go to somebody else to get your name and your fucking address so that I could call that well check while I'm at fucking work, dude. I almost lost my job that goddamn day. Let's just be real because I cared about you. And I knew that our friendship was over at that fucking moment. I knew as soon as I made that motherfucking fucking phone call that they would never be the same. And I did it anyway because your life was worth that. What I fucking tell you the whole time you're being manic on a goddamn phone. You have kids, Sav. You have fucking kids. You have fucking kids. Angela, shut the fuck up, Angela. Angela, shut up. Make me, motherfucker. To talk to. Nice. At that point, I was, like, fucking, like because she was just being a such a big bully to Sav, and she claims to be, like, fighting for Sab with all this shit, but she's abusing the shit out of her. Right? I just was so mad at Sab because Sab is so timid, and and we'll just take it and get run over, and I felt so bad for her in that moment. I was like, shut the fuck up. You know, just like
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0201_Logan.wav
+
+------------------------------------------------------------------------
+#092  AQ-0202_Logan.wav
+
+SPEAKER: Logan
+TIMESTAMP: 37:30
+SOURCE: Angela Maggard fan club [20260918_1AxRnZMeZNYxl]
+]
+CONTEXT: [AQ-0202] Third-party testimony / real-world ex-partner contact / retaliatory digging / boundary violations
+
+QUOTE:
+Just being honest? Alright. Well, if you say so. Yes, sir. Let's let's play. Uh Nothing about lies and beliefs, though. So you don't make a crew stab when me him out. Yeah. Yeah. You'll be going at Logan. And feel love. I'm at me like that. Like I'm going at it like both of you to this way. Okay? No, dude. I'm not talking to you. Yes. I what you said. Yes. I am. Maybe you should talk to Did she even let her speak the entire time? Just talk to over her the entire time. It sucks. Now. Okay? Because that's what's backing up. He doesn't have the fuck to. That's the whole reason I had to talk to Natalie. That's the whole reason I had to set this shit up. Always about their dick. By the way, you see you see, she's like, I had to talk to Natalie. Natalie from my ex girlfriend from, like, two years ago that, like, uh, I threw all my belongings away and, like, dumped me on the street in Mississippi with, like, nothing, put my dog in, like, a homeless shelter or whatever. Like, uh, you try to contact that chick for what? Like, for because I I let Ore talk in my space? That's why. Like, what the fuck?
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0202_Logan.wav
+
+------------------------------------------------------------------------
+#093  AQ-0203_Cambian.wav
+
+SPEAKER: Cambian
+TIMESTAMP: 38:54
+SOURCE: Angela Maggard fan club [20260918_1AxRnZMeZNYxl]
+]
+CONTEXT: [AQ-0203] Third-party testimony / blackmail / coercive crusades / weaponized pedophile allegations
+
+QUOTE:
+Well, I mean, when we were talking about, like, space earlier, and Logan was like, I'm not sure what we should do in the space. And I'm like, well, I don't think it's it's not like we need to do the same shit. What needs to happen is there's a lot of people who haven't been able to connect the dots. A lot of people in this platforms are aware of the other people that have been targeted by this person. Um, you know, she was giving me high praise for a long time until I didn't go along with some fucking blackmail, like, basically making me pick up a torch and go on this crusade with her or else I was the same as the people she was hunting down. And it was like, what are you talking about, Angela? What the fuck is this? And so it it I've noticed this is the pattern with pretty much everybody. Uh, well, I don't know what every I'm sure there's unique drama for many. I don't know if it's always like this for everyone, but at least as far as, you know, me not having anything to do with these people or what she's doing. And, you know, it's it's not okay to call people a pedophile. It's It's not okay to call people, like, say that you're people are doing stuff with young girls that are underage and shit when it's simply not fucking true. And if you're gonna bring something to a public forum, even if you don't care what's being said, We now have a social credit score. Follows us the fuck around. It does not go away. And this shit does matter to some idiots out there who look at your shit and Mhmm. Don't have to, like, think about these things critically. So, I mean, it just you know, you better have something that's been through the due process of law.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0203_Cambian.wav
+
+------------------------------------------------------------------------
+#094  AQ-0204_Glow_Baby__Skittles.wav
+
+SPEAKER: Glow Baby / Skittles
+TIMESTAMP: 53:00
+SOURCE: Angela Maggard fan club [20260918_1AxRnZMeZNYxl]
+]
+CONTEXT: [AQ-0204] Third-party testimony / real-world doxxing / family targeting / ban evasion
+
+QUOTE:
+Um, so, like, here's another thing. She also, like, has Glow Baby's name and her husband's name. Like, I'm not trying to encourage anybody to go, like, scrub anything, but guys run. My my shit is on her page too. Like, this bitch is crazy. Landed. And why can't she ever get her shit canceled? Like, I have reported her shit. Like
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0204_Glow_Baby__Skittles.wav
+
+------------------------------------------------------------------------
+#095  AQ-0205_Timmy.wav
+
+SPEAKER: Timmy
+TIMESTAMP: 54:43
+SOURCE: Angela Maggard fan club [20260918_1AxRnZMeZNYxl]
+]
+CONTEXT: [AQ-0205] Third-party testimony / 18-month harassment timeline / novel-length DM threats / CPS weaponization / doxxing children
+
+QUOTE:
+She was kinda friends with, like, my whole group of friends, and her and our one friend, Peach, they got into some kind of shit. Peach was having a bad day. She took a picture of a gun and put put it to her head as a joke. And Angela sort of like that triggered Angela so bad. She just fucking lost her mind over it. She's still talking about this. A year and a half later, Uh, basically, Angela just started blowing up my DMs. Like, she would be writing me novels every single day. Threats, accusations, Just, like, crazy shit that made no sense. Um, she's doxed for example, she's doxed Glows baby. She orchestrated, uh, Glow's baby being doxxed. She's called CPS on Skittles, AKA Al Pacino here. And me. Yeah. And she called CPS on you. I forgot about that. Sorry, Glow. She's gone after Ampou who's in the space. Uh, her and Peach doxed Ampou, basically.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0205_Timmy.wav
+
+------------------------------------------------------------------------
+#096  AQ-0206_Timmy.wav
+
+SPEAKER: Timmy
+TIMESTAMP: 56:01
+SOURCE: Angela Maggard fan club [20260918_1AxRnZMeZNYxl]
+]
+CONTEXT: [AQ-0206] Third-party testimony / fabricated biographies / faked pregnancies / parole officer harassment (30+ calls)
+
+QUOTE:
+Um, she's always threatening to take us all to court. This has been going on for a year and a half. She's she's lied about all her pregnancies pregnancies. She's lied about her mom dying on her birthday. She lied about her father dying on Father's Day. Like, everything this this everything in her story is just made up. Um, she's gotten she got a guy named Jade Helm who I fucking hate. She got him locked up. He went to jail last year for eight months. She called his parole officer, like, 30 times in one day. Yep. What else?
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0206_Timmy.wav
+
+------------------------------------------------------------------------
+#097  AQ-0207_Glow_Baby.wav
+
+SPEAKER: Glow Baby
+TIMESTAMP: 56:36
+SOURCE: Angela Maggard fan club [20260918_1AxRnZMeZNYxl]
+]
+CONTEXT: [AQ-0207] Third-party testimony / institutional escalation / Board of Parole targeting
+
+QUOTE:
+Not only did she call his parole officer, she called the board of parole. So she called them boss to his parole officers. Yep. And she's very, like, picky.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0207_Glow_Baby.wav
+
+------------------------------------------------------------------------
+#098  AQ-0208_Timmy.wav
+
+SPEAKER: Timmy
+TIMESTAMP: 56:46
+SOURCE: Angela Maggard fan club [20260918_1AxRnZMeZNYxl]
+]
+CONTEXT: [AQ-0208] Third-party testimony / survivor community infiltration / blackmail / contacting mothers and nannies / admission of disloyalty
+
+QUOTE:
+Like, she's pushing One thing that she's one thing that she's done that is really dangerous I just wanna speak on this, and then I'll show up. She's become friends with, like, people in the survivor community, really gotten close to people, gets their information, and then threatens and blackmails those same people. So Not only that, but this is something Oh, if this is somebody's gun rights removed as well, like, and all of their guns. Like, she's she's contacted like, there's a girl named Julie Jolie. She's contacted, like, her her her mom. She's contacted her, like, stepdaughter, like, trying to and she was the girlfriend of the guy that got that she got locked up last year. So just she's done lots of fucking terrible shit. She's she shared Julie's, like, nanny information. She put that out there. She's constantly doxing people, and she admits it. So Yeah. This is the only I want to mention. She also tells everyone that you shouldn't trust her because if it will prove a point, she will throw you under the bus. She said this multiple times.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0208_Timmy.wav
+
+------------------------------------------------------------------------
+#099  AQ-0209_Timmy.wav
+
+SPEAKER: Timmy
+TIMESTAMP: 70:40
+SOURCE: Angela Maggard fan club [20260918_1AxRnZMeZNYxl]
+]
+CONTEXT: [AQ-0209] Third-party testimony / pseudo-legal posturing / ChatGPT lawyer / mass cult slanders / CPS harassment
+
+QUOTE:
+Okay. She's mentally ill. She goes on chat GPT, only knows three words. Motion of discovery. Motion of discovery. That's all she knows. She's a chat GPT lawyer, uh, student. Do not be afraid of this woman. She is a fraud. She's never saved any children in twenty years. Twenty imagine paying somebody to do something in twenty years, they have no results. But instead, you wanna take kids away from real good women and good mothers on this app, all because they don't accept her story or because they're prettier than you or skinnier than you. This is what women do. And so that guy said repeal the nineteenth, this is why I need to do it because it's saying like this. It doesn't make any sense. Now another thing I wanna cover, she got Jade Helm thrown in jail over some b BS. He called it for pro officer. How many times? 39 already. You did? Okay. Good. I don't have to go through it. Same thing. She lied about not being allergic to alcohol. On the other day, she she's drinking in a space. You made this whole story about being allergic to alcohol. Now you're drinking in a space, and then you wanna blame spaces. You drove me to drink, and I'm allergic. This woman is mentally ill. Same thing with the if you think about the, um, the whole Gary the numbers guy thing. I'm in the group g 33. She said she didn't send the feds on us all because we said, fuck you. We don't believe your story. You're not gonna do shit. And she said, we're all in a pedophile cult. So 5,000 families in a group, average age of 35, were all in a pedophile cult. Don't you think they would have been covered by now? That slander, that's what you can really go to court for, slandering a bunch of people with families. If you would've called CBS and Skittles, GLOW, you would've called, uh, child protective service and every woman in space because they'll read your story or cut your pretty knee. This is petty shit. Do not believe a word she says. Nothing's gonna happen. And what is what I predict? Because I'm a numerology astrologist. Her, Curly Sue, who's her accomplice, poison Rican, they're gonna be gone before we are, and we're all gonna laugh at it. We're gonna be on space laughing. I do not forgive you. Forgiveness can be a formal weakness if you do it the wrong way. This happened to Mahatma Gandhi, Martin Croquet. That's their mistake. Forgiveness can be a really bad idea, especially when somebody's trying to take you down. So I do not forgive you, Curly Sue, Poison Rican, Angela AKA Krusty the Clown. We do not forgive you. Burn in hell. You deserve it. That's your karma. Okay. But hold on a second. Are made up. What? I thought their neurology and astrology were, like, banned to collide in your group. What was that all about?
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0209_Timmy.wav
+
+------------------------------------------------------------------------
+#100  AQ-0210_Glow_Baby.wav
+
+SPEAKER: Glow Baby
+TIMESTAMP: 109:41
+SOURCE: Angela Maggard fan club [20260918_1AxRnZMeZNYxl]
+]
+CONTEXT: [AQ-0210] Third-party testimony / reactive abuse distortion / infant child doxxing / parental terror threats
+
+QUOTE:
+Insane shit. She's accused me of threatening to murder her multiple times when, uh, that it wasn't just me flat out threatening to murder her. No. She loves to talk about reactive abuse. Right? Well, what is my reaction towards, Angela? My reaction is towards you doxing my baby, threatening my children, threatening to leave my children without a mother, threatening to leave my, um, children without a father, uh, threatening to bankrupt us, to you know, all quite shit that I obviously never believed, but there's only so much that one person can take of the same psycho fucking behavior before they also, you know, get psychotic on your ass right back.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0210_Glow_Baby.wav
+
+------------------------------------------------------------------------
+#101  AQ-0211_Glow_Baby.wav
+
+SPEAKER: Glow Baby
+TIMESTAMP: 111:07
+SOURCE: Angela Maggard fan club [20260918_1AxRnZMeZNYxl]
+]
+CONTEXT: [AQ-0211] Third-party testimony / total bloodline doxxing / lifelong address histories published
+
+QUOTE:
+No. The whole reason why my entire bloodline, you know, on my side, my husband's side of the families are all fully doxed and all their names, addresses, every single address I've lived at since I was a child has been doxxed has been because of this woman. Same. Right? So she she, you know, gangs up with these people that all have mutual alliance hatred for you, and she'll try and seek out any information that she can
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0211_Glow_Baby.wav
+
+------------------------------------------------------------------------
+#102  AQ-0212_Glow_Baby.wav
+
+SPEAKER: Glow Baby
+TIMESTAMP: 121:50
+SOURCE: Angela Maggard fan club [20260918_1AxRnZMeZNYxl]
+]
+CONTEXT: [AQ-0212] Third-party testimony / psychological warfare / pushing targets to the brink / malicious 'welfare checks'
+
+QUOTE:
+Right. That's what Timmy said earlier. And I wanted to add context to that because she was a mutual friend of ours. And, uh, the whole reason behind her even doing that was because Angela pushed her to that brink of, you know, feeling that, uh, sense of hopelessness that she wanted to do that. Right? To post that picture with the gun in her hand, not necessarily quite to her head, but kinda, like, you know, almost. Right? And she said this is what happens when people push you to this, you know, point. Like, when are people gonna stop? And by people, she was referring to Angela. Angela was the one that was threatening her, that was, uh, you know, doxxing her, that was calling all her family members, um, you know, called her husband, called her mother-in-law, was calling bonus checks on her, um, just like she kinda claimed to salve in that other space earlier. Oh, well, I did this to help you. I called a bonus check. And, you know, it's obvious. It's always her as, you know, pretending to help somebody. And that's in the name of helping somebody, but it's really causing more damage, and it's much more nefarious. It has nothing to do with help. She wants to, uh, victimize you. She wants to, you know, put fear into you. She wants to control you in the end because she couldn't control Pete to stop being friends with us at the time or to pick a side or, you know, to get on the bandwagon with her plight and her fight. She tortured her essentially for months on spaces. And, you know, she can easily do that to someone that's not strong of mind. Right? Like, a weaker, you know, more vulnerable individual that's never dealt with this type of personality. And that's what she's done. Like, she's shown a pattern of that over and over to multiple people. But, you know, eventually, she's gonna meet her match. And with me, she met her match, and I'm sure with you guys as well because we're all here together today. Um, and it's just sick. The tactics that she does, she loves to talk about psychological warfare, but, I mean, she studied it so much that she's implementing it on, you know, innocent civilians here on spaces for no fucking reason whatsoever. So it it's it's there's so much that I could go into that I'm gonna have to come back and put my hand back up because it's been a long fucking time coming and just so much that she's done over the years, which is absolutely insane that I even just said that. But Hey. What do you think is,
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0212_Glow_Baby.wav
+
+------------------------------------------------------------------------
+#103  AQ-0213_Sav.wav
+
+SPEAKER: Sav
+TIMESTAMP: 171:04
+SOURCE: Angela Maggard fan club [20260918_1AxRnZMeZNYxl]
+]
+CONTEXT: [AQ-0213] Third-party testimony / Sav firsthand confession / weaponized screenshots / vindicating Logan
+
+QUOTE:
+Yes. Uh, Rose, I'm definitely with you. I completely agree with that too. And, uh, hear me out. I think that this entire time, I have told Angela that she has, like, the wrong guys. Right? Like, these are not the feds that you were looking for. And, like, I meant that because, like, these are the people that have really helped her, and have only ever gone to bat for her and fought battles for her as well. And and that's proven in the back channels. Those are things that, like, people didn't get to see or hear. Like, there was only very small part of the story that was told today, and it's just being dragged on as, like, drama harvesting where, like, these are our real lives. Like, I can't speak for any of the other people that are being affected, but for me, like, I have been so spun out about this. And it's all because, uh, it's like a falling out with a friend. Right? Like, I genuinely none of us think that any of this shit but hear me out because I'm learning this since I'm a newbie. Like, this shit gets weaponized. All this showing in anything in back channels is not private. Like, it's all gonna come to light for sure. So, like, it's best to just, you know, move in good type of ways and good directions. And for me, I definitely got caught up in all of the back channels and stuff, um, and have, like, my own type of issues with, like, insecurities and, like, you know, um, just, like, not confident in a lot of things. You know? And my ugly definitely showed because it was being caught up in the back channels and trying to figure out who's who and just the talking shit game is just, like, never ending. And and I want to be the one to, you know that was completely all my my doing. For, like, Logan, all this stuff that's happening to him. None of this should be happening to him because, you know, I spun out and was crazy. Like, none of these, like, uh, screenshots should be shared. Any of these any of these personal information, like, and doxing and sending us just court stuff and any of that type of stuff is just it's just taking it way, way, way too far. And, um, yeah, just these guys don't deserve any of it because, like, I've been telling her, like, you're picking and pulling from years ago. And, like, these people, all of I'm sure. I mean, again, I'm a newbie, but, like, I don't think any of you guys are the same as last year when I met you. Right? Like, we've all, like, kind of evolved. We've grown. We've gone through drama. There's been tons of you know? Like, we go through the shit. We figure it out, and then, like, we move on from it. Like,
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0213_Sav.wav
+
+------------------------------------------------------------------------
+#104  AQ-0261_Angela_Maggard.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: 0:03
+SOURCE: Petty Space - Addressing the Men Who Provoked Me With My Dead Baby [20260908_1wxWjlrwXokJQ]
+]
+CONTEXT: [AQ-0261] Post-Fallout Declaration of War & Public Exposure of Logan
+
+QUOTE:
+This is gonna be like a monologue echo chamber space. This is just for the record. I'm not gonna go listen to your space. I don't give a fuck what you're saying. You can sit there and laugh and pretend like you guys are doing good. That's fine. I wanna show your pattern of fucking behavior on how you treat the people you say you fucking care about. Since you wanna go live and talk shit about my dead baby, I'm gonna go live and show everybody how you treat your women.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0261_Angela_Maggard.wav
+
+------------------------------------------------------------------------
+#105  AQ-0262_Angela_Maggard.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: 1:53
+SOURCE: Petty Space - Addressing the Men Who Provoked Me With My Dead Baby [20260908_1wxWjlrwXokJQ]
+]
+CONTEXT: [AQ-0262] Doxxing, Screenshot Drops & Sleep Weaponization Claims
+
+QUOTE:
+Alright, here's the next four screenshots posted down below. We're gonna do it in increments of four. After I post all the screenshots, I will then discuss what was being said in them. Weaponizing fucking sleep. Who the fuck does that? Narcissists. Narcissists do that. And like you said, Logan, you're only posting the truth so that people can, you know, analyze for themselves. That's what I'm doing.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0262_Angela_Maggard.wav
+
+------------------------------------------------------------------------
+#106  AQ-0263_Angela_Maggard.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: 18:24
+SOURCE: Petty Space - Addressing the Men Who Provoked Me With My Dead Baby [20260908_1wxWjlrwXokJQ]
+]
+CONTEXT: [AQ-0263] Recording Phone Calls, One-Party Consent & Direct Threats
+
+QUOTE:
+You're a pig. And you're lucky she won't let me share that screenshot where you compared her to a fucking dog. But I have it. Keep lying. And I'll post the phone call. You know, the one that I'm legally allowed to record because I live in a one-party consent state. And you illegally recorded it because you live in a two-party consent state and then you bragged about it? That recording? I don't give a fuck. I ain't got shit to hide.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0263_Angela_Maggard.wav
+
+------------------------------------------------------------------------
+#107  AQ-0264_Angela_Maggard.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: 20:49
+SOURCE: Petty Space - Addressing the Men Who Provoked Me With My Dead Baby [20260908_1wxWjlrwXokJQ]
+]
+CONTEXT: [AQ-0264] Investigative Threats, Surveillance Paranoia & 'You're Surrounded'
+
+QUOTE:
+Because if you haven't quite noticed it yet, you're surrounded. And eventually you're going to understand what I mean by that. But I was never the one that you should have been looking at. You dumb fucks. You're under investigation. You have been for a while now.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0264_Angela_Maggard.wav
+
+------------------------------------------------------------------------
+#108  AQ-0265_Angela_Maggard.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: 21:20
+SOURCE: Petty Space - Addressing the Men Who Provoked Me With My Dead Baby [20260908_1wxWjlrwXokJQ]
+]
+CONTEXT: [AQ-0265] Grandiosity, Institutional Allies & Predator Supporter Slurs
+
+QUOTE:
+And the friends that you think that you have in high places are low compared to mine. And I say that as humbly as possible. But I'm not the liar. I offered you money to prove me wrong. Prove that my story was false. Discredit me. Not slander me. Do your due diligence. Or continue to pop up predator supporters.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0265_Angela_Maggard.wav
+
+------------------------------------------------------------------------
+#109  AQ-0266_Angela_Maggard.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: 22:24
+SOURCE: Petty Space - Addressing the Men Who Provoked Me With My Dead Baby [20260908_1wxWjlrwXokJQ]
+]
+CONTEXT: [AQ-0266] Evidence Tampering Allegations, Trap-Setting & Confrontation
+
+QUOTE:
+Why did you wait two years to go back and delete that conversation after I had just re-sent you the other screenshots that I've never, ever publicly shared? What would scare you to the point where you would go and do that? You erasing evidence is playing into my hand. You dumb fuck. Own it. Have some accountability and pivot.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0266_Angela_Maggard.wav
+
+------------------------------------------------------------------------
+#110  AQ-0267_Angela_Maggard.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: 23:04
+SOURCE: Petty Space - Addressing the Men Who Provoked Me With My Dead Baby [20260908_1wxWjlrwXokJQ]
+]
+CONTEXT: [AQ-0267] Psychiatric Smears, Abuse Allegations & Multi-Day Spaces
+
+QUOTE:
+So then you've got some multiple personality disorder or schizophrenia or you're on drugs or some shit. Because how you not remember it? And how the fuck y'all staying up for days on end hosting these spaces? Like you don't think that's a red flag in itself? And half the abuse that happens happens in those type of spaces when you're, you allegedly claim that you are no longer like in it. That you've like walked away from your phone. So you try, kind of like try to get yourself out of jail by that. But that's reckless in my opinion. You're intentionally creating a dynamic for other people to be abused where you can just be like, oh, I didn't know blah, blah, blah, blah. And it's happened more than once. It's happened easily over 10 times that I can prove just with our DMs alone.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0267_Angela_Maggard.wav
+
+------------------------------------------------------------------------
+#111  AQ-0268_Angela_Maggard.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: 25:49
+SOURCE: Petty Space - Addressing the Men Who Provoked Me With My Dead Baby [20260908_1wxWjlrwXokJQ]
+]
+CONTEXT: [AQ-0268] Philosophy of Evidence, Withholding Dossiers & Justification
+
+QUOTE:
+I want the truth out there. All of it. To the point where I will sit in the fucking hot seat, let you guys pick me the fuck apart solely for the simple facts that patterns don't lie. People do. And you can sit here and feel how you want to feel about me right now. That's fine. All I'm asking you to do is look. Use your discernment. That's it. That's all you got to do is look. I don't want to even, you know, read it. I'm trying not to lead you. But I'm being asked to hold shit back. And I'm only doing that because I'm giving the other people involved time to mentally process this next chapter.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0268_Angela_Maggard.wav
+
+------------------------------------------------------------------------
+#112  AQ-0269_Angela_Maggard.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: 55:03
+SOURCE: Hook Line Sinker - How Psychological Operations Reel Us In [20260908_1nGeLMjONkAKX]
+]
+CONTEXT: [AQ-0269] History of Relationship with Logan & Turning Point
+
+QUOTE:
+Sure. So Logan was the second space I've ever told my story in. He was like the third friend I made on here. So I've known him since right after the shit with Natalie happened. I met him that same month that happened. I just didn't know about it until months later. So I established a friendship with him. He had helped me get information about my family and the back channels. And so I defended him relentlessly. And it wasn't until he had a relationship with my friend Sav, who was just in here, that I switched my opinion on him for the simple fact of what I witnessed on how he talks to her.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0269_Angela_Maggard.wav
+
+------------------------------------------------------------------------
+#113  AQ-0270_Angela_Maggard.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: 57:29
+SOURCE: Hook Line Sinker - How Psychological Operations Reel Us In [20260908_1nGeLMjONkAKX]
+]
+CONTEXT: [AQ-0270] Trigger Moment, Ego Collision & The Fallout Catalyst
+
+QUOTE:
+And then to me, he's like, I'm sorry she chose to throw you away. It's not my fault. And I got triggered. And so I sent the screenshot proving he was a liar. And that's when shit hit the fan. And that's where we're standing at now. It's because I proved him wrong. I hit him in his ego.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0270_Angela_Maggard.wav
+
+------------------------------------------------------------------------
+#114  AQ-0271_Angela_Maggard.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: 60:34
+SOURCE: Hook Line Sinker - How Psychological Operations Reel Us In [20260908_1nGeLMjONkAKX]
+]
+CONTEXT: [AQ-0271] Doxxing Admissions, Self-Acknowledgment & 'Believe Both'
+
+QUOTE:
+Because people think I'm too aggressive. And that's doxxing. Because I have set people's names in spaces. I'm not going to beat around the bush. And act like I haven't. I'm a reactive person. And I've had my kids exploited on here. I've had my life threatened multiple times. And I don't have the capacity to give them the same energy I gave them the first couple years. And so when you hear good things about me. Believe it. But you're going to hear bad things too. Believe them both. And use your discernment. Go through the evidence. And form your own opinion.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0271_Angela_Maggard.wav
+
+------------------------------------------------------------------------
+#115  AQ-0272_Angela_Maggard.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: 1:49
+SOURCE: Oor Brought a Chipper. Survivors Brought Receipts. [20260913_1lJQRWAWpvVxE]
+]
+CONTEXT: [AQ-0272] Audit Methodology, Counter-Dossiers & Retrospective Log
+
+QUOTE:
+I have a life. I have a job. I work like six days a week. These fuckers. I've literally been running smear campaigns against me for over four days straight. I don't give a fuck. Play all your cards. I'm thankful for the people that are actually documenting and recording this, so that way I can counteract each allegation with facts. And while we're doing this, I'm going all the way to the beginning with all these people that I've come in contact with. And reading from the very first message, all the screenshots that I send, vice versa. The way the dialogue was. And I'm taking notes.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0272_Angela_Maggard.wav
+
+------------------------------------------------------------------------
+#116  AQ-0273_Angela_Maggard.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: 3:39
+SOURCE: Oor Brought a Chipper. Survivors Brought Receipts. [20260913_1lJQRWAWpvVxE]
+]
+CONTEXT: [AQ-0273] Physical Threats, Violent Rhetoric & Confrontation in Logan's Space
+
+QUOTE:
+Today in Logan's space Orr completely showed his ass again, communicating threats like he's done numerous times in this community. But everybody gives him a get out of free jail card just because he's established trauma and he's gone through things... And now this man who's already threatened me numerous times is talking about wanting to put me in a fucking wood chipper. Bitch, you live three fucking hours away. Do I need to sign a fucking contract and you put your money in your little fucking jujitsu, little whatever shit to the fucking test? I will hogtie your bitch ass. I don't know who the fuck you think you're talking to first and foremost. I wish you motherfucking wood.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0273_Angela_Maggard.wav
+
+------------------------------------------------------------------------
+#117  AQ-0274_Angela_Maggard.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: 4:49
+SOURCE: Oor Brought a Chipper. Survivors Brought Receipts. [20260913_1lJQRWAWpvVxE]
+]
+CONTEXT: [AQ-0274] Court/Law Enforcement Weaponization & Threat Reporting
+
+QUOTE:
+And in the same fucking space, you talking about wanting to murder the mother of your child? You sitting here talking about wanting to kill the judge? You know damn well where that shit's going, right? You want to fucking threaten me again? I don't give a fuck how any of you or any of my old friends or mutuals feel about it. First and foremost, don't use the friend card. You've seen this harassment. You've seen this shit going for fucking years. And none of you stepped in.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0274_Angela_Maggard.wav
+
+------------------------------------------------------------------------
+#118  AQ-0275_Angela_Maggard.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: 5:54
+SOURCE: Oor Brought a Chipper. Survivors Brought Receipts. [20260913_1lJQRWAWpvVxE]
+]
+CONTEXT: [AQ-0275] Host Complicity, Induced Mania & Hostile Escalation
+
+QUOTE:
+Just because you fucking host spaces for days on end does not give you a get-out-of-jail-free card because you were sleeping or you were at the store. Have better fucking co-hosts. Don't co-host fucking people who threaten to murder people and rape people's mothers. Especially people that are already in a manic episode. And for anyone to act oblivious to that of your dumbest shit, it's not like you haven't seen me in that fucking phase. It's not like you haven't seen Jack in that phase. We've seen a lot of fucking people push to mania and then you want to sit there and cry like a little bitch when you fucking find out.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0275_Angela_Maggard.wav
+
+------------------------------------------------------------------------
+#119  AQ-0276_Angela_Maggard.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: 40:09
+SOURCE: Space Invaders - Narrative Edition Smoke Sesh [20260916_1YxNrbXNjQLxw]
+]
+CONTEXT: [AQ-0276] Violent Metaphors, 'I Identify as Tannerite' & Mutual Destruction
+
+QUOTE:
+I identify as Tannerite And I love how you be Like screen recording All my little sayings Bro and you putting That in evidence Bitch I say I identify As Tannerite Because my dad Taught the seer course You dumb fuck Survive evade Resist escape If you're going To kill me You're going to die too Is all I'm saying It's not that It's not like I'm threatening To murder all you It's just saying It's a saying bro You can tell y'all Live from some Pansy ass Little like Not town Like city shit Dude Because that's How we talk Out here Tannerite is an Explosive that you Use for like Land clearing Okay It removes trees It has a big Boom Okay But it's legal To purchase So when I say I identify as Tannerite I'm saying I'm an explosive Person That if you're Going to come At me Don't fucking Miss Because if you Do you're Going to meet Your maker With me
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0276_Angela_Maggard.wav
+
+------------------------------------------------------------------------
+#120  AQ-0277_Angela_Maggard.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: 47:34
+SOURCE: Space Invaders - Narrative Edition Smoke Sesh [20260916_1YxNrbXNjQLxw]
+]
+CONTEXT: [AQ-0277] FBI Reporting, PDF Accusations & Live Stream Confrontation
+
+QUOTE:
+I Love It How You Down In The Comments You Bait A Bitch Logan Be A Man No One Is Buying Your Bullshit Angela You Haven't Been Blocked All You Tell I Screenshotted It You Fucking Cunt I'll Put It Down Below Because When I Went To Unblock You Bitch You Had Me Blocked So Shove That Up Your Ass But He Says All You Tell Are Lies You're The Only One Hosting Spaces Making Posts Threatening With Lawsuits And Reporting Into The FBI Making Slanderous Claims About PDF Don't Play Games Own Your Shit And Leave Logan And Me Alone
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\AQ-0277_Angela_Maggard.wav
+
+------------------------------------------------------------------------
+#121  D07_AQ-0007_Angela.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 17:51
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+]
+CONTEXT: [D07] AQ-0007: Direct Allegation
+
+QUOTE:
+That's why I've told all my mutual friends that I cannot be friends anymore. Because if I'm gonna be put in the position to where I have to choose between telling the truth and being friends, I'm sorry to hurt your feelings, but I'm going to choose the truth.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\D07_AQ-0007_Angela.wav
+
+------------------------------------------------------------------------
+#122  D08_AQ-0008_Angela.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 18:19
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+]
+CONTEXT: [D08] AQ-0008: Direct Allegation
+
+QUOTE:
+Logan's one of many people. He was not even the initial person I was talking about this. But you have men on here sharing nudes of women in in in DMs. Multiple women. Revenge porn is real.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\D08_AQ-0008_Angela.wav
+
+------------------------------------------------------------------------
+#123  D09_AQ-0009_Angela.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 21:09
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+]
+CONTEXT: [D09] AQ-0009: Direct Allegation
+
+QUOTE:
+Do you want me to post the photos below of of Logan with the 13 year old? Do you want me to just tit for tat, motherfucker, since I can't speak on an abroad since without having to speak by names?
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\D09_AQ-0009_Angela.wav
+
+------------------------------------------------------------------------
+#124  D10_AQ-0010_Angela.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 23:21
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+]
+CONTEXT: [D10] AQ-0010: Direct Allegation
+
+QUOTE:
+Stop propping up predators. That's the whole reason why me and Lana don't talk anymore.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\D10_AQ-0010_Angela.wav
+
+------------------------------------------------------------------------
+#125  D15_AQ-0015_Angela.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 59:17
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+]
+CONTEXT: [D15] AQ-0015: Direct Allegation
+
+QUOTE:
+Logan isn't even the big bad wolf in all of this shit. There's worse.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\D15_AQ-0015_Angela.wav
+
+------------------------------------------------------------------------
+#126  D16_AQ-0016_Angela.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 64:22
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+]
+CONTEXT: [D16] AQ-0016: Direct Allegation
+
+QUOTE:
+I'm a very patient person, and I'm very calculated... I sat on it until I was poked and poked and poked... Then I said, fuck it. I threw it all in the fuck it bucket.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\D16_AQ-0016_Angela.wav
+
+------------------------------------------------------------------------
+#127  D22_AQ-0022_Angela.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 96:55
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+]
+CONTEXT: [D22] AQ-0022: Retaliation & Disclosure
+
+QUOTE:
+So I screenshotted that, and I went to my other account, and I sent it because I will have the motherfucking last word.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\D22_AQ-0022_Angela.wav
+
+------------------------------------------------------------------------
+#128  EXTRA-01_AQ-0276_Angela_Maggard.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 39:35
+SOURCE: Space Invaders - Narrative Edition Smoke Sesh [20260916_1YxNrbXNjQLxw]
+]
+CONTEXT: [EXTRA-01] AQ-0276: Retaliation & Disclosure
+
+QUOTE:
+I identify as Tannerite. And I love how you be like screen recording all my spaces... meet your maker with me.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\EXTRA-01_AQ-0276_Angela_Maggard.wav
+
+------------------------------------------------------------------------
+#129  EXTRA-02_AQ-0270_Angela_Maggard.wav
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 57:28
+SOURCE: Hook Line Sinker - How Psychological Operations Reel Us In [20260908_1nGeLMjONkAKX]
+]
+CONTEXT: [EXTRA-02] AQ-0270: Retaliation & Disclosure
+
+QUOTE:
+And then to me, he's like, I'm sorry she chose to throw you away. It's not my fault. And I got triggered. And so I sent the screenshot proving he was a liar. And that's when shit hit the fan. And that's where we're standing at now. It's because I proved him wrong. I hit him in his ego.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\EXTRA-02_AQ-0270_Angela_Maggard.wav
+
+------------------------------------------------------------------------
+#130  Quote_01_Walking_Paper_Trail.mp3
+
+SPEAKER: Angela; adjacent question/speaker split unresolved
+TIMESTAMP: 40:46
+SOURCE: Hook Line Sinker — corrected text location [20260908_1nGeLMjONkAKX]
+
+CONTEXT: Quote 01 Walking Paper Trail
+
+QUOTE:
+Oh, you're the one in Milwaukee. No, I said I'm a walking paper trail. What do you mean by that? Like my entire online persona and stuff is evidence. I'm a whistleblower who came here to share truth and dealt with psychological operations, trying to hinder and silence my story from ever going mainstream. Because I won't take a dollar and I won't read scripts to you in spaces. Like a lot of they do. And could you tell me how it's negatively hurt?
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\Quote_01_Walking_Paper_Trail.mp3
+
+------------------------------------------------------------------------
+#131  Quote_02_Die_On_That_Hill.mp3
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: Line 97
+SOURCE: Logan, Sav, Deacon & Angela Audio Space Argument [loganSavDeaconAngelaArgue]
+
+CONTEXT: Quote 02 Die On That Hill
+
+QUOTE:
+How am I weaponizing it? You're calling me a liar in real time in a space of a public platform saying that I'm the liar. I will prove I will die on that hill. Do you not get that?
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\Quote_02_Die_On_That_Hill.mp3
+
+------------------------------------------------------------------------
+#132  Quote_04_Ive_Doxed_People.mp3
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 16:21
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+
+CONTEXT: Quote 04 Ive Doxed People
+
+QUOTE:
+Front door, the photo of his front door of his house, in the group chat, not publicly, because how fucking dare you threaten my, I'm sorry, I'm not going to apologize for my reaction, I mean, like, what do you want me to say, you can threaten me, you can threaten my kids, I'm just going to take it, I'm going to take it, I'm going to take it, I did take it, I took it a lot, and that's the reason why we stand and where we're standing at, I should have been checking shit from the jump, I should have not been complicit.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\Quote_04_Ive_Doxed_People.mp3
+
+------------------------------------------------------------------------
+#133  Quote_05_Kidnapped_As_A_Baby.mp3
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 31:23
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+
+CONTEXT: Quote 05 Kidnapped As A Baby
+
+QUOTE:
+Megan Walsh. Megan Walsh is a friend of mine. Our stories connect. So I was kidnapped as a baby and illegally adopted into a CIA military family. My father, Master Sergeant Stephen Maggard, was handed a baby October 27th, 1987, the day he became a Green Beret here at Fort Bragg, North Carolina. My sealed adoption file is missing from vital records. That's a federal offense. My dad died on Father's Day in 2007, and then my birth mom died on my birthday in 2018 after I searched my whole life to find her, and I found her. So I'm exposing Fort Bragg, 3rd Special Forces Group of the 82nd Airborne Division for Human and Drug Trafficking, Wright-Patterson Air Force Base, specifically Wright Laboratories, that's W-R-I-G-A.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\Quote_05_Kidnapped_As_A_Baby.mp3
+
+------------------------------------------------------------------------
+#134  Quote_07_Shane_I_Did_Do_That.mp3
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 01:14:02
+SOURCE: Angela Maggard Fan Club Space [20260918_1AxRnZMeZNYxl]
+
+CONTEXT: Quote 07 Shane I Did Do That
+
+QUOTE:
+counteract it they could just do and say whatever they wanted because i couldn't prove it a lot of them are shitting their pants now because i can prove when they messaged me when they changed personalities how many of the people on here have sent me y'all's personal information to rage bait me into doxing you that's what they're scared of they don't want you to know who was trying to handle me and they think that i'm going to be too scared to admit it angela so you're admitting that you did assist them in doxing personal information i absolutely did and i'm not gonna
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\Quote_07_Shane_I_Did_Do_That.mp3
+
+------------------------------------------------------------------------
+#135  Quote_08_Let_Me_Fucking_Speak.mp3
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 18:30
+SOURCE: Logan, Sav, Deacon & Angela Audio Space Argument [loganSavDeaconAngelaArgue]
+
+CONTEXT: Quote 08 Let Me Fucking Speak
+
+QUOTE:
+Hallows to incite race violence on my children. And then had your friends add me into a racist group chat where they doxed my current fucking address and threatened to murder me. So, yes, I doxed the leader of that racist group chat. I did. I sent him the fucking front door, the photo of his front door of his house. I did the group chat, not publicly, because how fucking dare you?
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\Quote_08_Let_Me_Fucking_Speak.mp3
+
+------------------------------------------------------------------------
+#136  Quote_09_Burn_Logan_14_Times.mp3
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 52:10
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+
+CONTEXT: Quote 09 Burn Logan 14 Times
+
+QUOTE:
+How many times did you tell me over the pan of three months that you wanted me to burn Logan and all of UFOX? That was you, not me. I will show you. You said it 14 fucking times. Girl, if you fucking had a weapon.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\Quote_09_Burn_Logan_14_Times.mp3
+
+------------------------------------------------------------------------
+#137  Quote_10_Guns_A_Blazing.mp3
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 44:15
+SOURCE: Angela Maggard Fan Club Space [20260918_1AxRnZMeZNYxl]
+
+CONTEXT: Quote 10 Guns A Blazing
+
+QUOTE:
+games a blazing wanting to expose this shit because i came into these communities they talk about it but they didn't have no evidence they weren't sharing no documents they really weren't and so i just started posting all my documents all the stuff that i had like trying to get people to look at you know actual evidence they didn't care well they did for a period of time but i didn't have any warnings i had groups different groups telling me don't talk to this person or don't talk to this person nobody's gonna listen to your story if you talk to a b and see and i still have those dms so like i had i didn't understand back then i'm just looking like who the fuck do you think you talk
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\Quote_10_Guns_A_Blazing.mp3
+
+------------------------------------------------------------------------
+#138  Quote_11_Send_People_To_Watch_You.mp3
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 01:52:22
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+
+CONTEXT: Quote 11 Send People To Watch You
+
+QUOTE:
+See, the one thing I like to do is I'll send people in the community that I know in real life to watch you talk shit about me So I can see both sides and then I'll play dumb I'll do that for months Doesn't Logan like work for the According to staff, he said he worked for the SA
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\Quote_11_Send_People_To_Watch_You.mp3
+
+------------------------------------------------------------------------
+#139  Quote_12_Whole_Timeline_Since_2023.mp3
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 22:45
+SOURCE: The Social Cost of Taking a Suicide Threat Seriously [20260930_1lJQRWLvWVzxE]
+
+CONTEXT: Quote 12 Whole Timeline Since 2023
+
+QUOTE:
+I mean, I'm just processing. I don't think you should just let things go, because that makes me complicit, especially when I have documented everything. I have a whole timeline since 2023, around October, all the way until now, multiple profiles, because when this account was permanently banned for trying to take down a child predator group, Paradrama is their community. Tina Leroy is the account that threatened to throw acid on my face, skin me alive, leave my kids in a pool of my blood because I defended one of my enemies, somebody that's been talking shit about me, and it's fine, but he was talking about raping her son to death.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\Quote_12_Whole_Timeline_Since_2023.mp3
+
+------------------------------------------------------------------------
+#140  Quote_13_Triangulates_Them_AI_Harem.mp3
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 02:09:15
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+
+CONTEXT: Quote 13 Triangulates Them AI Harem
+
+QUOTE:
+Just, I'm trying to comprehend. Okay. So the issue is, is he is abusive to women in the back channels. He triangulates them against each other, right? He has this little harem of followers that'll do as he pleases, attack you by proxy just to be able to sit with him in his little AI system. That is my issue. You see something, you say something. Don't be complicit. And don't demonize the people bringing awareness to it either. If a person is brave enough to speak about abuse, listen to them. You don't have to fucking like them to care about them. At the end of the day.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\Quote_13_Triangulates_Them_AI_Harem.mp3
+
+------------------------------------------------------------------------
+#141  Quote_14_Platforming_Predators_AI_Minors.mp3
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 02:11:40
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+
+CONTEXT: Quote 14 Platforming Predators AI Minors
+
+QUOTE:
+all this stuff and they were aware and then they play ignorant and that's my part is like how are you going to come to me when you want me to solve your problems or you need somebody to like santa it's one-sided and i don't i don't care anymore i don't want to sit at your table i don't want um i don't not trying to be mean because you don't have integrity like you'll sit here and platform predators like roger i don't give a fuck if it's ai porn bro of minors that's disgusting like you can sit here and make
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Angela_All_Audio_Clips\Angela_Audio_Clips\Quote_14_Platforming_Predators_AI_Minors.mp3
+
+------------------------------------------------------------------------
+#142  Quote_15_Called_You_Out_Suicidal.mp3
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 01:32
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+
+CONTEXT: Quote 15 Called You Out Suicidal
+
+QUOTE:
+I called you out for making my friend, who I've known for a year and a half before you ever started dating her, suicidal.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Quote_15_Called_You_Out_Suicidal.mp3
+
+------------------------------------------------------------------------
+#143  Quote_16_Post_The_Photos_13_Year_Old.mp3
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 21:10
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+
+CONTEXT: Quote 16 Post The Photos 13 Year Old
+
+QUOTE:
+Do you want me to post the photos below of of Logan with the 13 year old?
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Quote_16_Post_The_Photos_13_Year_Old.mp3
+
+------------------------------------------------------------------------
+#144  Quote_17_Triangulation_Nudes_Girlfriend.mp3
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 08:18
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+
+CONTEXT: Quote 17 Triangulation Nudes Girlfriend
+
+QUOTE:
+triangulation of him sending other women's nudes to his girlfriend to piss her off
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Quote_17_Triangulation_Nudes_Girlfriend.mp3
+
+------------------------------------------------------------------------
+#145  Quote_18_Access_To_Savs_Twitter.mp3
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 01:52:53
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+
+CONTEXT: Quote 18 Access To Savs Twitter
+
+QUOTE:
+Logan has access to Sav's Twitter account,
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Quote_18_Access_To_Savs_Twitter.mp3
+
+------------------------------------------------------------------------
+#146  Quote_19_Hired_Somebody_Retaliation.mp3
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 01:07:21
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+
+CONTEXT: Quote 19 Hired Somebody Retaliation
+
+QUOTE:
+I hired somebody for that specific retaliation just in case,
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Quote_19_Hired_Somebody_Retaliation.mp3
+
+------------------------------------------------------------------------
+#147  Quote_20_Motherfucking_Last_Word.mp3
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 01:37:02
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+
+CONTEXT: Quote 20 Motherfucking Last Word
+
+QUOTE:
+I will have the motherfucking last word.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Quote_20_Motherfucking_Last_Word.mp3
+
+------------------------------------------------------------------------
+#148  Quote_21_Contact_With_The_FBI.mp3
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 01:51:23
+SOURCE: LOGAN BLACK UNMASKED - WEAPONIZING WOMEN ON UFO X [20260918_1MJgNbdaAPlGL]
+
+CONTEXT: Quote 21 Contact With The FBI
+
+QUOTE:
+I've been in contact with the FBI for a while,
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Quote_21_Contact_With_The_FBI.mp3
+
+------------------------------------------------------------------------
+#149  Quote_22_Hands_On_Natalie.mp3
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 11:59
+SOURCE: Hook Line Sinker - How Psychological Operations Reel Us In [20260908_1nGeLMjONkAKX]
+
+CONTEXT: Quote 22 Hands On Natalie
+
+QUOTE:
+Even though you put hands on Natalie,
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Quote_22_Hands_On_Natalie.mp3
+
+------------------------------------------------------------------------
+#150  Quote_23_Dark_Web_Her_Information.mp3
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 14:42
+SOURCE: Hook Line Sinker - How Psychological Operations Reel Us In [20260908_1nGeLMjONkAKX]
+
+CONTEXT: Quote 23 Dark Web Her Information
+
+QUOTE:
+You went on the dark web and you got her information, right?
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Quote_23_Dark_Web_Her_Information.mp3
+
+------------------------------------------------------------------------
+#151  Quote_24_Teach_You_How_Its_Done_Villain.mp3
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 06:24
+SOURCE: Hook Line Sinker - How Psychological Operations Reel Us In [20260908_1nGeLMjONkAKX]
+
+CONTEXT: Quote 24 Teach You How Its Done Villain
+
+QUOTE:
+I'm going to teach you how it's done. And I will be the full villain.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Quote_24_Teach_You_How_Its_Done_Villain.mp3
+
+------------------------------------------------------------------------
+#152  Quote_25_AI_Porn_Videos_Accusation.mp3
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 09:30
+SOURCE: Hook Line Sinker - How Psychological Operations Reel Us In [20260908_1nGeLMjONkAKX]
+
+CONTEXT: Quote 25 AI Porn Videos Accusation
+
+QUOTE:
+And then in the back channels, you're making AI porn videos of fucking people. And then sending them to your girlfriend.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Quote_25_AI_Porn_Videos_Accusation.mp3
+
+------------------------------------------------------------------------
+#153  Quote_26_Youre_A_Pig_Post_The_Phone_Call.mp3
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 18:54
+SOURCE: Petty Space - Addressing the Men Who Provoked Me With My Dead Baby [20260908_1wxWjlrwXokJQ]
+
+CONTEXT: Quote 26 Youre A Pig Post The Phone Call
+
+QUOTE:
+You're a pig. And you're lucky she won't let me share that screenshot where you compared her to a fucking dog. But I have it. Keep lying. And I'll post the phone call.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Quote_26_Youre_A_Pig_Post_The_Phone_Call.mp3
+
+------------------------------------------------------------------------
+#154  Quote_27_Opportunity_To_Tell_The_Truth.mp3
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 08:14
+SOURCE: Petty Space - Addressing the Men Who Provoked Me With My Dead Baby [20260908_1wxWjlrwXokJQ]
+
+CONTEXT: Quote 27 Opportunity To Tell The Truth
+
+QUOTE:
+I'm going to give you an opportunity to tell the truth. And if you fucking don't... I'll post them all.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Quote_27_Opportunity_To_Tell_The_Truth.mp3
+
+------------------------------------------------------------------------
+#155  Quote_28_Youre_Surrounded_Under_Investigation.mp3
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 21:05
+SOURCE: Petty Space - Addressing the Men Who Provoked Me With My Dead Baby [20260908_1wxWjlrwXokJQ]
+
+CONTEXT: Quote 28 Youre Surrounded Under Investigation
+
+QUOTE:
+you're surrounded. And eventually you're going to understand what I mean by that. But I was never the one that you should have been looking at. You dumb fucks. You're under investigation. You have been for a while now.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Quote_28_Youre_Surrounded_Under_Investigation.mp3
+
+------------------------------------------------------------------------
+#156  Quote_29_Sent_It_To_Sav_To_Hurt_Her.mp3
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 15:52
+SOURCE: Petty Space - Addressing the Men Who Provoked Me With My Dead Baby [20260908_1wxWjlrwXokJQ]
+
+CONTEXT: Quote 29 Sent It To Sav To Hurt Her
+
+QUOTE:
+Logan sent it to Sav to hurt her months later
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Quote_29_Sent_It_To_Sav_To_Hurt_Her.mp3
+
+------------------------------------------------------------------------
+#157  Quote_30_Orgy_Party_Sex_Cult.mp3
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 24:57
+SOURCE: Petty Space - Addressing the Men Who Provoked Me With My Dead Baby [20260908_1wxWjlrwXokJQ]
+
+CONTEXT: Quote 30 Orgy Party Sex Cult
+
+QUOTE:
+your little orgy party, your little fucking sex cult shit.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Quote_30_Orgy_Party_Sex_Cult.mp3
+
+------------------------------------------------------------------------
+#158  Quote_31_Screenshots_As_Intimidation.mp3
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 39:03
+SOURCE: Space Invaders - Narrative Edition Smoke Sesh [20260916_1YxNrbXNjQLxw]
+
+CONTEXT: Quote 31 Screenshots As Intimidation
+
+QUOTE:
+I am using Those screenshots And the evidence As intimidation though
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Quote_31_Screenshots_As_Intimidation.mp3
+
+------------------------------------------------------------------------
+#159  Quote_32_I_Identify_As_Tannerite.mp3
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 39:45
+SOURCE: Space Invaders - Narrative Edition Smoke Sesh [20260916_1YxNrbXNjQLxw]
+
+CONTEXT: Quote 32 I Identify As Tannerite
+
+QUOTE:
+I identify as Tannerite And I love how you be Like screen recording All my little sayings Bro and you putting That in evidence Bitch I say I identify As Tannerite Because my dad Taught the seer course You dumb fuck Survive evade Resist escape If you're going To kill me You're going to die too Is all I'm saying It's not that It's not like I'm threatening To murder all you It's just saying It's a saying bro You can tell y'all Live from some Pansy ass Little like Not town Like city shit Dude Because that's How we talk Out here Tannerite is an Explosive that you Use for like Land clearing Okay It removes trees It has a big Boom Okay But it's legal To purchase So when I say I identify as Tannerite I'm saying I'm an explosive Person That if you're Going to come At me Don't fucking Miss Because if you Do you're Going to meet Your maker
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Quote_32_I_Identify_As_Tannerite.mp3
+
+------------------------------------------------------------------------
+#160  Quote_33_Motion_For_Discovery.mp3
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 02:35
+SOURCE: Space Invaders - Narrative Edition Smoke Sesh [20260916_1YxNrbXNjQLxw]
+
+CONTEXT: Quote 33 Motion For Discovery
+
+QUOTE:
+I know where to look when I file this motion for discovery.
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Quote_33_Motion_For_Discovery.mp3
+
+------------------------------------------------------------------------
+#161  Quote_34_Not_Captain_Save_A_Ho.mp3
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 17:47
+SOURCE: Space Invaders - Narrative Edition Smoke Sesh [20260916_1YxNrbXNjQLxw]
+
+CONTEXT: Quote 34 Not Captain Save A Ho
+
+QUOTE:
+I am not Captain Save-A-Ho And if you're gonna sit here And ask me to save you And then go back to what burned you Well You didn't get burned long enough
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Quote_34_Not_Captain_Save_A_Ho.mp3
+
+------------------------------------------------------------------------
+#162  Quote_35_Hand_My_Phone_To_The_FBI.mp3
+
+SPEAKER: Not specified in saved catalog; may include multiple voices
+TIMESTAMP: 02:27
+SOURCE: Space Invaders - Narrative Edition Smoke Sesh [20260916_1YxNrbXNjQLxw]
+
+CONTEXT: Quote 35 Hand My Phone To The FBI
+
+QUOTE:
+I will hand my phone and every fucking device that I have over to the fbi
+
+FILE: C:\Users\Logan\copy-spaces-to-youtube-pipeline\public\clips\angela\Quote_35_Hand_My_Phone_To_The_FBI.mp3
+
+------------------------------------------------------------------------
+#163  P01_01_Opening_Warning.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: AQ-0264; local clip coordinates 12.020–28.020 seconds. Excludes the unrelated medical-records lead-in and later speech.
+SOURCE: Petty Space [20260908_1wxWjlrwXokJQ]
+
+CONTEXT: P01 01 Opening Warning
+
+QUOTE:
+Because if you haven't quite noticed it yet, you're surrounded. And eventually you're going to understand what I mean by that. But I was never the one that you should have been looking at. You dumb fucks. You're under investigation. You have been for a while now.
+
+FILE: C:\Users\Logan\Downloads\THE_PAPER_TRAIL_CODEX_COMPLETE_TEXT_ONLY\THE_PAPER_TRAIL_CODEX\production\prologue_audio\P01_01_Opening_Warning.wav
+
+------------------------------------------------------------------------
+#164  P02_01_Retained_Documents.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: February 16 original; transcript /segments/1631 at 21076.55–21106.57 seconds. Final sample coordinates refer to retained_focus_source_window.wav; this is a bounded decoded section, not a new claimed original timecode.
+SOURCE: Entry Level Improv and Music from the Beyond [20260216_1djxXNkreeNGZ]
+
+CONTEXT: P02 01 Retained Documents
+
+QUOTE:
+You don't ever show all your cards ever. I never do. I tell a lot of stuff, but I have a lot more stuff in my pockets, names, dates, documents that I shouldn't possess that I do.
+
+FILE: C:\Users\Logan\Downloads\THE_PAPER_TRAIL_CODEX_COMPLETE_TEXT_ONLY\THE_PAPER_TRAIL_CODEX\production\prologue_audio\P02_01_Retained_Documents.wav
+
+------------------------------------------------------------------------
+#165  P02_02_Evidence_Ethics.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: September 15 original; transcript /segments/159 at 6431.81–6492.36 seconds. Working window requested at 6430 seconds with VBR TOC seeking; its local sample coordinates control the final cut.
+SOURCE: Super Spy Tea Time Red String Therapy pt.4 [20260915_1qGvvebNOARGB]
+
+CONTEXT: P02 02 Evidence Ethics
+
+QUOTE:
+Just because some of the evidence and stuff I've collected could be weaponized to hurt other people. And I don't feel like that is the right way to handle it. I've been tempted, not even to lie. But it's just the wrong way to go about it.
+
+FILE: C:\Users\Logan\Downloads\THE_PAPER_TRAIL_CODEX_COMPLETE_TEXT_ONLY\THE_PAPER_TRAIL_CODEX\production\prologue_audio\P02_02_Evidence_Ethics.wav
+
+------------------------------------------------------------------------
+#166  P02_03_Every_DM_Since_2023.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: September 8 Petty Space original at D:\Angela Project\audio_source\20260908_1wxWjlrwXokJQ_Petty_Space.mp3. Exact original cut 863.000–871.360 seconds (14:23.000–14:31.360).
+SOURCE: Petty Space [20260908_1wxWjlrwXokJQ]
+
+CONTEXT: P02 03 Every DM Since 2023
+
+QUOTE:
+And so if he wants to paint me as the big bad wolf, I'll share every fucking DM we've ever talked about going all the way back to 2023 in the Discord.
+
+FILE: C:\Users\Logan\Downloads\THE_PAPER_TRAIL_CODEX_COMPLETE_TEXT_ONLY\THE_PAPER_TRAIL_CODEX\production\prologue_audio\P02_03_Every_DM_Since_2023.wav
+
+------------------------------------------------------------------------
+#167  P03_01_Early_Friendship.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: AQ-0269; local clip coordinates 0.600–6.230 seconds. Do not add its subsequent Natalie/history/Sav continuation.
+SOURCE: Hook Line Sinker [20260908_1nGeLMjONkAKX]
+
+CONTEXT: P03 01 Early Friendship
+
+QUOTE:
+So Logan was the second space I've ever told my story in. I—he was like the third friend I made on here.
+
+FILE: C:\Users\Logan\Downloads\THE_PAPER_TRAIL_CODEX_COMPLETE_TEXT_ONLY\THE_PAPER_TRAIL_CODEX\production\prologue_audio\P03_01_Early_Friendship.wav
+
+------------------------------------------------------------------------
+#168  P03_02_Helped_And_Defended.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: AQ-0269; local clip coordinates 17.380–24.760 seconds. Ends before the changed-opinion/Sav continuation reserved for Act Two.
+SOURCE: Hook Line Sinker [20260908_1nGeLMjONkAKX]
+
+CONTEXT: P03 02 Helped And Defended
+
+QUOTE:
+He had helped me get information, um, about my family and the back channels. And so I defended him relentlessly.
+
+FILE: C:\Users\Logan\Downloads\THE_PAPER_TRAIL_CODEX_COMPLETE_TEXT_ONLY\THE_PAPER_TRAIL_CODEX\production\prologue_audio\P03_02_Helped_And_Defended.wav
+
+------------------------------------------------------------------------
+#169  P01_Relationship_Became_A_Liability.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: D:\Angela Project\audio_source\20260908_1nGeLMjONkAKX_Hook_Line_Sinker.mp3 — 2247.100–2257.660s
+SOURCE: Hook Line Sinker [20260908_1nGeLMjONkAKX]
+
+CONTEXT: P01 Relationship Became A Liability
+
+QUOTE:
+As soon as I found out you were in a relationship with Logan, I stopped telling you about the shit that I was clipping because you were emotionally invested. Did I not? Like, I'm not trying to be mean, but like, that turns into a liability. Especially when you're documenting truth.
+
+FILE: C:\Users\Logan\Downloads\THE_PAPER_TRAIL_CODEX_COMPLETE_TEXT_ONLY\THE_PAPER_TRAIL_CODEX\production\sav_recruitment_audio\P01_Relationship_Became_A_Liability.wav
+
+------------------------------------------------------------------------
+#170  P02_Sav_TikTok_Research_Arrangement.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: D:\Angela Project\audio_source\20260918_1MJgNbdaAPlGL_Logan_Unmasked.mp3 — 3154.120–3167.240s
+SOURCE: Logan Black Unmasked [20260918_1MJgNbdaAPlGL]
+
+CONTEXT: P02 Sav TikTok Research Arrangement
+
+QUOTE:
+Sav was my friend from TikTok. Sav came to Twitter to help me analyze the psychological warfare tactics that were happening on spaces because she wasn't in any personal relationships with anybody on this app. So no personal connections.
+
+FILE: C:\Users\Logan\Downloads\THE_PAPER_TRAIL_CODEX_COMPLETE_TEXT_ONLY\THE_PAPER_TRAIL_CODEX\production\sav_recruitment_audio\P02_Sav_TikTok_Research_Arrangement.wav
+
+------------------------------------------------------------------------
+#171  01_Hook_Line_Sinker_Angela_self_description.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: 3630.43–3677.63s BROAD TURN
+SOURCE: Hook_Line_Sinker_-_How_Psychological_Operations_Reel_Us_In [20260908_1nGeLMjONkAKX]
+
+CONTEXT: A fair invitation to judge both favorable and unfavorable accounts. Stronger opening standard than treating a reaction as proof.
+
+QUOTE:
+I don't have the capacity to give them the same energy I gave them the first couple years. And so, when you hear good things about me, believe it, but you're going to hear bad things too, believe them both. And use your discernment, go through the evidence, and and form your own opinion. I I'm human, and I'm a mom at that, and I navigated to the best of my ability.
+
+FILE: D:\Angela Project\Quote Clips\Test Run - Hook Line Sinker\01_Hook_Line_Sinker_Angela_self_description.wav
+
+------------------------------------------------------------------------
+#172  02_Hook_Line_Sinker_Angela_chaos_statement.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: 1579.45–1735.22s BROAD TURN
+SOURCE: Hook_Line_Sinker_-_How_Psychological_Operations_Reel_Us_In [20260908_1nGeLMjONkAKX]
+
+CONTEXT: Character and self-description, if a later scene needs it.
+
+QUOTE:
+...and I'm perfectly fine staying here, I'm a little comfortable, which is probably toxic. Uh, but I I thrive in chaos. I self-sabotage in calm, cuz I don't know how to—Oh, go ahead, Sev.
+
+FILE: D:\Angela Project\Quote Clips\Test Run - Hook Line Sinker\02_Hook_Line_Sinker_Angela_chaos_statement.wav
+
+------------------------------------------------------------------------
+#173  03_Uncensored_Truth_Angela_patterns_dont_lie.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: 4576.27–4679.94s BROAD TURN
+SOURCE: Uncensored_Truth_Not_Your_Therapist_-_Angela_and_SaraBeth_Truth_Hour [20260906_1nGnRBnpYdXGO]
+
+CONTEXT: Explains her stated purpose for routine recording and pattern collection.
+
+QUOTE:
+...consent state if you can legally record cuz I do. I live in this this area on purpose so that I can go up to you and record you in your face. And then I have cameras on the front of my car and the back of my car. And it might be tedious and it might be a lot of data, but I just do that just to establish a a pattern of behavior, a certain pattern. Patterns don't lie. Data doesn't lie. People do.
+
+FILE: D:\Angela Project\Quote Clips\Test Run - Hook Line Sinker\03_Uncensored_Truth_Angela_patterns_dont_lie.wav
+
+------------------------------------------------------------------------
+#174  04_Uncensored_Truth_Angela_separate_phone.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: 5173.65–5301.41s BROAD TURN
+SOURCE: Uncensored_Truth_Not_Your_Therapist_-_Angela_and_SaraBeth_Truth_Hour [20260906_1nGnRBnpYdXGO]
+
+CONTEXT: Concrete information-gathering method: recording despite screenshot restrictions.
+
+QUOTE:
+They think you're dumb, and that's the reason why they get scared of people like me is because I document. I don't care about these settings. You can put it in the group chat that you can't screenshot shit. I got a separate phone. I I'm going to just record it either way cuz I don't...
+
+FILE: D:\Angela Project\Quote Clips\Test Run - Hook Line Sinker\04_Uncensored_Truth_Angela_separate_phone.wav
+
+------------------------------------------------------------------------
+#175  05_Oor_Angela_hogtie_statement.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: 99.90–266.57s BROAD TURN
+SOURCE: Oor_Brought_a_Chipper._Survivors_Brought_Receipts. [20260913_1lJQRWAWpvVxE]
+
+CONTEXT: Retrospective evidence of the Oor conflict and her stated provocation.
+
+QUOTE:
+...me. And now this man who has already threatened me numerous times is talking about wanting to put me in a fucking wood chipper? Bitch, you live three fucking hours away. Do I need to sign a fucking contract and you put your money and your little fucking jiu-jitsu, your little whatever shit to the fucking test? I will hogtie your bitch ass. I don't know who the fuck you think you're talking to first and foremost.
+
+FILE: D:\Angela Project\Quote Clips\Test Run - Hook Line Sinker\05_Oor_Angela_hogtie_statement.wav
+
+------------------------------------------------------------------------
+#176  06_Oor_Angela_headbutt_statement.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: 521.70–561.78s BROAD TURN
+SOURCE: Oor_Brought_a_Chipper._Survivors_Brought_Receipts. [20260913_1lJQRWAWpvVxE]
+
+CONTEXT: Optional character material; lower value than specific information practices.
+
+QUOTE:
+I got a fivehead for a reason, bitch. That's why it's flat like that, bitch, cuz I will headbutt you. Fuck throwing hands. Like I want to be the craziest person in the room cuz who who are you talking to like that?
+
+FILE: D:\Angela Project\Quote Clips\Test Run - Hook Line Sinker\06_Oor_Angela_headbutt_statement.wav
+
+------------------------------------------------------------------------
+#177  07_Oor_Angela_timeline_statement.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: 750.71–794.31s BROAD TURN
+SOURCE: Oor_Brought_a_Chipper._Survivors_Brought_Receipts. [20260913_1lJQRWAWpvVxE]
+
+CONTEXT: Links caring for someone with continued note-taking and a timeline.
+
+QUOTE:
+And, um, I still care, but I'm still taking notes the whole fucking time cuz I want to see how far you're going to go. And, um, I hate being right. And that's the great thing about writing everything down every single fucking day. You have a timeline. Have you noticed, like...
+
+FILE: D:\Angela Project\Quote Clips\Test Run - Hook Line Sinker\07_Oor_Angela_timeline_statement.wav
+
+------------------------------------------------------------------------
+#178  08_Space_Invaders_Angela_screenshot_threat.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: 633.06–915.74s BROAD TURN
+SOURCE: Space_Invaders_-_Narrative_Edition_Smoke_Sesh [20260916_1YxNrbXNjQLxw]
+
+CONTEXT: A specific conditional threat to circulate a circle of friends’ screenshots.
+
+QUOTE:
+Cry in his, 'Don't share the screenshots, Angela.' Motherfucker, you're going to keep it up, and I'm going to share everybody that you sit with right now, all of them, the screenshots of y'all talking shit about each other and just let you burn each other to the ground. It don't have to be like that. You can just leave me the fuck alone.
+
+FILE: D:\Angela Project\Quote Clips\Test Run - Hook Line Sinker\08_Space_Invaders_Angela_screenshot_threat.wav
+
+------------------------------------------------------------------------
+#179  09_Petty_Space_Angela_little_taste_teaser.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: 705.27–910.63s BROAD TURN
+SOURCE: Petty_Space_-_Addressing_the_Men_Who_Provoked_Me_With_My_Dead_Baby [20260908_1wxWjlrwXokJQ]
+
+CONTEXT: Shows staged disclosure and an invitation for Logan to respond.
+
+QUOTE:
+I will hold the rest until you respond. *(laughs)* Cuz apparently you're already crying about it now. Fucking funny. But anyways, that's just a little taste, a little teaser of, um, what your friend Logan Black is doing behind the channels.
+
+FILE: D:\Angela Project\Quote Clips\Test Run - Hook Line Sinker\09_Petty_Space_Angela_little_taste_teaser.wav
+
+------------------------------------------------------------------------
+#180  10_Petty_Space_Angela_people_sent_material.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: 705.27–910.63s BROAD TURN
+SOURCE: Petty_Space_-_Addressing_the_Men_Who_Provoked_Me_With_My_Dead_Baby [20260908_1wxWjlrwXokJQ]
+
+CONTEXT: Reveals her stated route to private material: people sitting with Logan.
+
+QUOTE:
+...talk shit about your friends that you're sitting with that are that are protecting you right now. Also, where do you think I'm getting this stuff from, dumbass? People that are sitting with you that are too scared to confront you because you have dirt on them. So they sent it to me.
+
+FILE: D:\Angela Project\Quote Clips\Test Run - Hook Line Sinker\10_Petty_Space_Angela_people_sent_material.wav
+
+------------------------------------------------------------------------
+#181  11_Petty_Space_Angela_discovery_threat.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: 705.27–910.63s BROAD TURN
+SOURCE: Petty_Space_-_Addressing_the_Men_Who_Provoked_Me_With_My_Dead_Baby [20260908_1wxWjlrwXokJQ]
+
+CONTEXT: Discovery presented as a mechanism for putting private material on the public record.
+
+QUOTE:
+...you dumbass, and I challenge you to do so. Um, cuz then I'll slip that Uno flip reverse and have your ass file a motion for discovery, put everything on fucking record, and it'll be public information. Test me. I'm not worried.
+
+FILE: D:\Angela Project\Quote Clips\Test Run - Hook Line Sinker\11_Petty_Space_Angela_discovery_threat.wav
+
+------------------------------------------------------------------------
+#182  12_Crackheads_Angela_predator_definition.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: 2805.90–2921.58s BROAD TURN
+SOURCE: CRACKHEADS_TAKING_OVER_DISCLOSURE_-_HERES_YOUR_SINE [20260907_1OxwbneDwBqJB]
+
+CONTEXT: Optional vocabulary/context passage when discussing how accusations were framed.
+
+QUOTE:
+No, and that's why I called him a predator. So you'll hear me, I'll say a predator, predator supporter, because the predator definition is, you know, grooming, um, you know, there's it's a very broad term. So that's why I use the term that I do specifically for legal purposes. I don't call him a child predator—you know, I'd say child predator, yeah, cuz that's exactly what the allegation was. I didn't say pedophile because I haven't seen physical proof. I've heard testimony...
+
+FILE: D:\Angela Project\Quote Clips\Test Run - Hook Line Sinker\12_Crackheads_Angela_predator_definition.wav
+
+------------------------------------------------------------------------
+#183  13_Logan_Unmasked_Angela_well_check.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: 482.62–642.45s BROAD TURN
+SOURCE: LOGAN_BLACK_UNMASKED_-_WEAPONIZING_WOMEN_ON_UFO_X [20260918_1MJgNbdaAPlGL]
+
+CONTEXT: Earlier, September 18 public account in which Angela says she arranged a welfare check.
+
+QUOTE:
+Sav threatened suicide over Logan. Logan's in a fucking space talking it up, no care in the fucking world. I call and get a well check done on her, now I'm the villain. Now I'm the fucking villain, bro. And that's fine, cuz there's no way...
+
+FILE: D:\Angela Project\Quote Clips\Test Run - Hook Line Sinker\13_Logan_Unmasked_Angela_well_check.wav
+
+------------------------------------------------------------------------
+#184  14_Logan_Unmasked_Angela_front_door.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: 776.76–1162.62s BROAD TURN
+SOURCE: LOGAN_BLACK_UNMASKED_-_WEAPONIZING_WOMEN_ON_UFO_X [20260918_1MJgNbdaAPlGL]
+
+CONTEXT: Angela acknowledges sending a front-door photograph, and specifies the audience.
+
+QUOTE:
+So, yes, I doxxed the leader of that racist group chat. I did. I sent him the fucking front door, the photo of his front door of his house, in the group chat, not publicly, cuz how fucking dare you...
+
+FILE: D:\Angela Project\Quote Clips\Test Run - Hook Line Sinker\14_Logan_Unmasked_Angela_front_door.wav
+
+------------------------------------------------------------------------
+#185  15_Logan_Unmasked_Angela_only_shared_a_couple.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: 2265.50–2340.97s BROAD TURN
+SOURCE: LOGAN_BLACK_UNMASKED_-_WEAPONIZING_WOMEN_ON_UFO_X [20260918_1MJgNbdaAPlGL]
+
+CONTEXT: Qualifies the timing and scale of screenshot sharing with TJ.
+
+QUOTE:
+...with Angela, who will bring them to TJ. Now, granted, I had not shared them to TJ at that point in time at all. Um, I've only shared a couple, if we're going to be real, but that's the gist of it. Is anybody else...
+
+FILE: D:\Angela Project\Quote Clips\Test Run - Hook Line Sinker\15_Logan_Unmasked_Angela_only_shared_a_couple.wav
+
+------------------------------------------------------------------------
+#186  16_Logan_Unmasked_Angela_forty_DMs.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: 2641.05–2679.32s BROAD TURN
+SOURCE: LOGAN_BLACK_UNMASKED_-_WEAPONIZING_WOMEN_ON_UFO_X [20260918_1MJgNbdaAPlGL]
+
+CONTEXT: Her competing account: repeated private confrontation before public disclosure.
+
+QUOTE:
+...harassed me. Logan motherfucking Black, when the fuck did I harass you other than when I just addressed you multiple times over you fuck with my friend? And I did it in the DMs, did I not? Like 40 fucking times before we went public.
+
+FILE: D:\Angela Project\Quote Clips\Test Run - Hook Line Sinker\16_Logan_Unmasked_Angela_forty_DMs.wav
+
+------------------------------------------------------------------------
+#187  17_Logan_Unmasked_Angela_sent_screenshots_to_TJ.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: 3494.04–3612.17s BROAD TURN
+SOURCE: LOGAN_BLACK_UNMASKED_-_WEAPONIZING_WOMEN_ON_UFO_X [20260918_1MJgNbdaAPlGL]
+
+CONTEXT: Direct responsibility for supplying screenshots, paired with her explanation that TJ gave her a voice.
+
+QUOTE:
+...past behavior, but it was my fault that he shared those screenshots. Um, and I I sent them to him. So, I'm not going to sit here and act like, um, he did that on his own accord. I did that because at that point in time, nobody in the UFO community would give me a microphone and let me say my piece my piece or my like voice whatsoever.
+
+FILE: D:\Angela Project\Quote Clips\Test Run - Hook Line Sinker\17_Logan_Unmasked_Angela_sent_screenshots_to_TJ.wav
+
+------------------------------------------------------------------------
+#188  18_Logan_Unmasked_Angela_sent_people_to_watch.wav
+
+SPEAKER: Angela Maggard
+TIMESTAMP: 6742.73–7017.72s BROAD TURN
+SOURCE: LOGAN_BLACK_UNMASKED_-_WEAPONIZING_WOMEN_ON_UFO_X [20260918_1MJgNbdaAPlGL]
+
+CONTEXT: A complete, concise cut of her described monitoring method and concealed knowledge.
+
+QUOTE:
+See, the one thing I like to do is I'll send people in the community that I know in real life to watch you talk shit about me so like I can see both sides, and then I'll play dumb. I'll do that for months.
+
+FILE: D:\Angela Project\Quote Clips\Test Run - Hook Line Sinker\18_Logan_Unmasked_Angela_sent_people_to_watch.wav
+
+------------------------------------------------------------------------
+#189  19_Fan_Club_Sine_referral_warning.wav
+
+SPEAKER: Sine
+TIMESTAMP: 3471.28–3536.05s BROAD TURN
+SOURCE: Angela_Maggard_fan_club [20260918_1AxRnZMeZNYxl]
+
+CONTEXT: Sine’s change from referring people to Angela to regretting those referrals.
+
+QUOTE:
+If somebody asks me if they can get help from someone, and I send them in her direction, and then she turns these people into a new target, and it's like I have only realized that she was doing this only just recently. And I've sent people in her direction numerous times, and I feel incredibly fucking guilty now. So if anybody is listening to this, and I've ever ever, like, said, 'Hey, you should go talk...' Cuz I have other people, too, that I are actually good people that I can send uh survivors towards to to get additional help or support. Angela is not one of them. If I sent anybody who is listening to this...
+
+FILE: D:\Angela Project\Quote Clips\Test Run - Hook Line Sinker\19_Fan_Club_Sine_referral_warning.wav
+
+------------------------------------------------------------------------
+#190  20_Fan_Club_Speaker_13_CPS_account.wav
+
+SPEAKER: Speaker 13
+TIMESTAMP: 2570.05–2882.34s BROAD TURN
+SOURCE: Angela_Maggard_fan_club [20260918_1AxRnZMeZNYxl]
+
+CONTEXT: A participant’s account of repeated agency/police visits and fear at home.
+
+QUOTE:
+Oh, dude, like I've been swatted. And when I say swatted, I mean like she's called child services. They show— they showed up once a month for 5 months in a row. And then the 6th month, she called the cops. So I had 5 months in a row child services showing up on my door, and...
+
+FILE: D:\Angela Project\Quote Clips\Test Run - Hook Line Sinker\20_Fan_Club_Speaker_13_CPS_account.wav
+
+------------------------------------------------------------------------
+#191  21_Fan_Club_Speaker_13_daughter_phone.wav
+
+SPEAKER: Speaker 13
+TIMESTAMP: 2971.11–3111.14s BROAD TURN
+SOURCE: Angela_Maggard_fan_club [20260918_1AxRnZMeZNYxl]
+
+CONTEXT: The same participant describes family contacts and a changed phone number.
+
+QUOTE:
+...children. She called my ex-husband, she called my firstborn daughter. My firstborn daughter had to change her fucking phone number. She literally changed her phone number, everything about it, the area code, the whole num— like because this dumb bitch is so fucking psycho...
+
+FILE: D:\Angela Project\Quote Clips\Test Run - Hook Line Sinker\21_Fan_Club_Speaker_13_daughter_phone.wav
+
+------------------------------------------------------------------------
+#192  22_Fan_Club_Speaker_24_identifying_information.wav
+
+SPEAKER: Speaker 24; brief other-voice interjection
+TIMESTAMP: 6845.36–7019.77s BROAD TURN
+SOURCE: Angela_Maggard_fan_club [20260918_1AxRnZMeZNYxl]
+
+CONTEXT: A different participant describes disclosure of identifying information and a call home.
+
+QUOTE:
+Anywho, she decided to, um, leak my name, my legal name, my phone number, um, my MLS report—does anyone know what that is? Yeah, your legal residence, like it says your dwelling and the picture and everything. Yeah, you got it fucking wrong. And Angela even called my house. And I knew exactly what night it was, too.
+
+FILE: D:\Angela Project\Quote Clips\Test Run - Hook Line Sinker\22_Fan_Club_Speaker_24_identifying_information.wav
+
+------------------------------------------------------------------------
+#193  23_Fan_Club_Sine_recurring_pattern.wav
+
+SPEAKER: Sine
+TIMESTAMP: 8845.53–8878.37s BROAD TURN
+SOURCE: Angela_Maggard_fan_club [20260918_1AxRnZMeZNYxl]
+
+CONTEXT: Sine’s qualified observation of recurring language, if needed as a callback.
+
+QUOTE:
+...you can hear that she uses the same dialogue with everybody. From what I've heard so far at least, from what people have shared, it's it's like kind of a mantra. It's like a similar speech pattern that I've noticed that she has with everybody. I mean, unless I'm wrong, that's why I I...
+
+FILE: D:\Angela Project\Quote Clips\Test Run - Hook Line Sinker\23_Fan_Club_Sine_recurring_pattern.wav
+
+========================================================================
+End of combined, deduplicated archive.
+Total unique entries: 193]
+
+================================================================================
+ADDITIONAL FULL-TEXT QUOTE SEGMENTS
+(Added from transcript search results. Exact repeats of the same segment collapsed.
+Quotes marked "NOT found" are listed at the end for reference.)
+================================================================================
+
+----------------------------------------------------------------------
+ADD-01  Walking Paper Trail + Family / Fort Bragg (Hook Line Sinker)
+Episode: 20260908_1nGeLMjONkAKX  |  Segment 32  |  2446.72–2562.16s  |  Speaker 1
+Audio: https://github.com/aiandbotsgalore/copy-spaces-to-youtube-pipeline/releases/download/20260908_1nGeLMjONkAKX/20260908_1nGeLMjONkAKX_Hook_Line_Sinker_-_How_Psychological_Operations_Reel_Us_In.mp3
+
+QUOTE:
+Oh you're the one in Milwaukee. No I said I'm a walking paper trail. What do you mean by that? Like my entire online persona and stuff is evidence. I'm a whistleblower who came here to share truth. And dealt with psychological operations. Trying to hinder and silence my story from ever going mainstream. Because I won't take a dollar. And I won't read scripts to you in spaces. Like a lot of they do. And could you tell me how it's negatively hurt you? And when you say gang stalking. When I think of a gang. I think of like people that murder. Oh yeah. My father was murdered on father's day. My mom was murdered on my birthday. It's very real. But gang stalking usually happens online. Or not online. In real life. But this is branched off to online. So that's what I'm trying to bring awareness to. Is that this fight is now changed. The battlefield isn't the same. That the tactics that they once used in real life. Can now be applied on a mass scale. Do you mind me asking how your parents got murdered? So my dad was third generation special forces. His job was to torture people for the government. Master Sergeant Stephen Eugene Maggard taught the SEER course. He was handed a baby October 27th 1987. The day he became a Green Beret. I'm exposing Fort Bragg North Carolina. Third special forces group of the 82nd Airborne Division. For human and drug trafficking. And then Wright Patterson Air Force Base. For war crimes against humanity. Involving children. And this is my real name. I dox myself. So I challenge anyone to prove me wrong. Because I just. I want y'all to look. I want justice. My grandfather worked for the Pentagon. My grandma worked for the CIA and the DIA. I posted her NDAs. Or you can just Google. It pops up on CIA.gov. She was a part of the Stargate Project. And a bunch of other shit. When did he get murdered? And how did your mom get murdered? So Father's Day in 2007. And my mother March 15th 2018 on my birthday.
+
+----------------------------------------------------------------------
+ADD-02  Send People to Watch / Shane Admission / Doxxing Context (Logan Unmasked)
+Episode: 20260918_1MJgNbdaAPlGL  |  Segment 200  |  6742.73–7017.72s  |  Angela
+Audio: https://github.com/aiandbotsgalore/copy-spaces-to-youtube-pipeline/releases/download/20260918_1MJgNbdaAPlGL/20260918_1MJgNbdaAPlGL_LOGAN_BLACK_UNMASKED_-_WEAPONIZING_WOMEN_ON_UFO_X.mp3
+(Note: Original search listed this same segment under Quotes 4, 7, and 11. Collapsed to one entry.)
+
+QUOTE:
+See, the one thing I like to do is I'll send people in the community that I know in real life to watch you talk shit about me so I can see both sides, and then I'll play dumb. I'll do that for months. Doesn't Logan, like, work for the According to Sav Maybe not. According to Sav, she said he worked for the SAIC, allegedly, when he forced her to sign into the cloud. Because, Logan, any DMs you send to Sav, Logan can read. Logan has access to Sav's Twitter account, and when Logan has access to her cell phone because he had her, in order to the loyalty test, sign in to his cloud. Um, so there's, like, no privacy community to no longer be complicit. Whether you're friends with a person or not, you see something, fucking say something. I'm not saying doing it publicly in a space like this. This would not have been my preferred method. This was after Red went into Panda's not Panda's space. Went into Logan's space, directly fucking asked him after AJ and Israel and a bunch of other people tried, and he refused. This was this was my first rebuttal. Depending on how the space goes at 9PM, depends on how my second one goes. Because I already know how that one's gonna go. I'm not really worried. Listen to everything that's said. Use your discernment. And then I'd say if you have the time, go through my recorded spaces because my recorded spaces are rebuttals. All the evidence is going to be down below in the little chat bubble. Um, that's just how I run them. That's a way that I can keep all my stuff organized on this app. I also have to move all my stuff from my other profile from when this account was permanently banned just to give you the full context because the last half the last year was on my old account because this account was permanently banned. And that's why a lot of these people are scared is because they were able to rewrite the narrative all last year because I did not have this evidence, um, to counteract it. They could just do and say whatever they wanted because I couldn't prove it. A lot of them are shitting their pants now because I can prove when they messaged me, when they changed personalities. How many of the people on here have sent me y'all's personal information to rage bait me into doxxing you? That's what they're scared of. They don't want you to know who was trying to handle me, and they think that I'm gonna be too scared to admit it. Angela, so you're admitting that you did, uh, assist them in doxing personal and social media? Did. And I'm not gonna I'm not a liar. So, Shane, Shane, I did do that. Good work. Um, but Shane knows. I sent all this stuff to Shane two years ago privately when I figured out it was him. So it's not like, um, I'm not gonna sit here and paint in a different light. I've doxed people that doxed my kids, bro. Glow baby, the girl you're gonna hear in that space today, dude. You wanna hear the videos of her saying she's gonna slice my throat in front of the judge after I had her serve, after I filed a restraining order on her, first sued her? You wanna hear the fucking death threats about murdering me as a baby? Like, all these people that are gonna shit talk me that I did doxxed targeted me first. I ate it and turned my cheek, tried to take them to court legally, and they just didn't show up. So I gave you is you were complicit in this abuse with this show for about four years. So I don't know if your argument really has any I mean, that's valid because Logan did this to you. Correct? Yeah. Absolutely. I wasn't naming your names, but you were in the first chapter. I don't know if you got to see it. I'd recommend going back and relistening and looking to it. Um, but you're one of four women. I recommend we, uh, talk privately because I have something that may assist you. Okay. Um, I I am scheduling another space with Natalie. Um, I've talked to her a couple times. Her fear is the rich she's really scared of Logan. I don't know what the dynamic was there. I didn't get to meet her. I don't have any history with this woman at all. Um, but she was worried about Sav. Alright. Don't attack the women. I won't. I don't I'm not going to. That's the whole point that I have with Sav right now. Sav is my friend. I had to separate myself just because, um, well, you know the dynamic. You know how it works. She's not gonna be herself for a while. I also know that you kind of, uh, indicted yourself. I know. But I I reactive. It's all about intention. It's all about was it malicious?
+
+----------------------------------------------------------------------
+ADD-03  Kidnapped as a Baby (Oor / Chipper space)
+Episode: 20260913_1lJQRWAWpvVxE  |  Segment 86  |  1883.22–1958.45s  |  Speaker 1
+Audio: https://github.com/aiandbotsgalore/copy-spaces-to-youtube-pipeline/releases/download/20260913_1lJQRWAWpvVxE/20260913_1lJQRWAWpvVxE_Oor_Brought_a_Chipper._Survivors_Brought_Receipts.mp3
+
+QUOTE:
+Megan Walsh. Megan Walsh is a friend of mine. Our stories connect. So, I was kidnapped as a baby and illegally adopted into a CIA military family. My father, Master Sergeant Stephen Maggard, was handed a baby October 27, 1987, the day he became a Green Beret here at Fort Bragg, North Carolina. My sealed adoption file is missing from vital records. That's a federal offense. My dad died on Father's Day in 2007. And then my birth mom died on my birthday in 2018 after I searched my whole life to find her and I found her. So, I'm exposing Fort Bragg, 3rd Special Forces Group of the 82nd Airborne Division for Human and Drug Trafficking, Wright-Patterson Air Force Base, specifically Wright Laboratories, that's W-R-I-G-H-T, for War Crimes Against Humanity involving testing of adolescents for research purposes. Um, I'm trying to expose legacy operations involving multiple generation families, um, running these experimentations on kids that they adopt in. And I believe that they utilize TRICARE to do it. And, um, they won't let you look. And I've begged. Oh, you have TRICARE too? Oh, I have evidence. I started running away at age 5. I have police reports going all the way back then. And I witnessed it.
+
+----------------------------------------------------------------------
+ADD-04  Let Me Speak / Front Door / Doxxing Admission (Logan Unmasked)
+Episode: 20260918_1MJgNbdaAPlGL  |  Segment 23  |  776.76–1162.62s  |  Angela
+Audio: https://github.com/aiandbotsgalore/copy-spaces-to-youtube-pipeline/releases/download/20260918_1MJgNbdaAPlGL/20260918_1MJgNbdaAPlGL_LOGAN_BLACK_UNMASKED_-_WEAPONIZING_WOMEN_ON_UFO_X.mp3
+
+QUOTE:
+To have a relationship with somebody that should be your enemy just because they don't like one of your fellow enemies. That that to me seems like controlled opposition. Well, damn. Because that's sort of like what I've been dealing with for two fucking years. I talked about the layer. Those were those screenshots of Larry were mine, by the way. I'm the one he said that to. You know? I I talked to him. I said, do you really think it's okay to have a relationship with with children, with minors? He said, only if their parents are dead knowing my parents are dead. He said that to me, and I didn't share the rest of the screenshots for the simple fact that he is deceased. And, um, well, the two screenshots that I shared were damning enough. And so, you know, I don't believe in speaking ill of the fucking dead. However, pattern, that was Logan's space. Same with mistress Morpho. Logan's space. Um, most of the death threats that I had the first couple of years, which y'all remember because a couple of y'all were part of it, um, was in Logan's space. It wasn't like he always supported me at first. Remember? It was very back and forth. Like, y'all let me speak. But at that point in time, nobody believed me, and they wouldn't go look at the NDAs. You know what I mean? I was getting a lot of harassment. Oh, your grandma's not a psychic remote viewer. She wasn't a part of the Stargate Project. Blah blah blah blah. Even though her NDA is dated before Hal Puthos, whatever. Um, you know, and I posted all those NDAs. It doesn't matter what evidence I have. I'm to the point I I never share my research anymore because of, like, what extent. Got Eric. He took the documents to support his own story, and then you got freaking Ashton. He didn't even tell and that's he promised me that. He said once he got, you know, in his foot in the door, that he would come back and he would help me get justice. I have that in screenshot in the same discourse they're all crying about. And this is the pattern. So there's not just one discord. There's, like, easily 20 to 30. So once they realize that I am documenting and screen record because I've been telling you all that since the very first fucking space I've been in. And the first space I was in was in Signs. The second space was Logan's. So you easily have a documented paper trail of recorded spaces of me saying, don't talk to me in DM or privately if you don't have integrity. If you're not going to stand 10 toes down on your actions, don't converse with me. Because at the end of the day, if I'm push comes to shove and I have to prove that I am not the fucking liar, I will do so because that is my number one trigger is being called a liar. I don't like it at all, and and I don't like predators. And I don't like it when people normalize this type of behavior, especially when you have survivors literally just wanting people to care. And I I understand. None of you guys give a fuck about what happened to me. You're so desensitized. Dog cages, who cares? Being stabbed in the two, cares. You know what I mean? It's it's it's a child. Who gives a fuck? Right? Angela Angela. Still happening. That is very unfair to say because you know that I care very I know you care, but I was thinking as, like, the status quo. I have to call you out when you make generalities like that because I don't know how many people in this room are your supporter. I don't. I don't know. I kinda feel like the entire time I've tried to talk so far, I have people pushing back instead of letting me land my plan. Whereas when Logan would do this shit, everyone would think, listen. You know what I mean? Angela, I'm doing I'm pushing back right now because I want you to get justice. Okay? I want this world to be a place where children are just realistic, though, bro. I'm not gonna get justice. It doesn't matter. I I have unrealistic expectations But, Angela on my shoulder. I don't I don't wanna argue right now. You're not arguing. You're just growing my conversation and getting me emotional. Okay? Intentional. Care, and you're just to say that. To listen. You're just I have to listen. I've been listening for years. Let me fucking speak. Shit. I can't even in my own space, bro. Like, y'all see this shit happen to me over and over and over again, but my reaction is more of a problem. My clapbacks are too hard. You can poke, poke, poke, poke, threaten me, threaten my friends, but God forbid I say your name. I've doxed people. Let's not even sit here and beat around the motherfucking bush. Glow baby's gonna speak in that space. She doxed my baby. First of all, no. I did not. Chrissy posted a photo from your Facebook account. Was it wrong? Absolutely. Um, But you fucking gave a photo of my children to a man who altered the photo, put them in their underwear, put them in front of gallows to incite race violence on my children, um, and then had your friends add me into a racist group chat where they doxed my current fucking address and threatened to murder me. So, yes, I doxed the leader of that racist group chat. I did. I sent him the fucking front door the photo of his front door of his house. I in the group chat, not publicly, because how fucking dare you threaten my I'm sorry. I'm not gonna apologize for my reaction. I mean, like, what do you want me to say? You can threaten me. You can threaten my kids. I'm just gonna take it. I'm gonna take it. I'm gonna take it. I did take it. I took it a lot, and that's the reason why we stand where we're standing at. I should have been checking shit from the jump. I should have not been complicit in some of these situations because I had an emotional connection or a friendship with people. That's why I've told all my mutual friends that I cannot be friends anymore. Because if I'm gonna be put in the position to where I have to choose between telling the truth and being friends, I'm sorry to hurt your feelings, but I'm going to choose the truth. Y'all not fighting the same fight I'm fighting. You don't even understand the gravity of it, and that's okay because I'm only allowed to talk past tense because you guys don't even have the emotional comp capacity to, like, compute that. And then we have, like, people on on x. Logan's one of many people. He was not even the initial person I was talking about this. But you have men on here sharing nudes of women in in in DMs. Multiple women. Okay? And I'm not I understand the other side of the shoe where the women are sharing the photos. I'm not gonna slut shame. Revenge porn is real. Okay? At the end of the day, I I I I pray that these women get some self respect and that they learn to love themselves and choose different instead of, um, these emotionally absent relationships that you have to, like, fill this void in your life. You know, I get the plot. I get the trauma bonding. I get the fucking Stockholm Syndrome bullshit. What I don't understand is if you've never met this person physically in real life, like, what justifies that type of behavior? Because at the end of the day, this war is only going on because I was stuck in the middle of a relationship of two of my friends in an uncomfortable situation where I have one friend suicidal sending me screenshots of how her boyfriend is talking to her. And his boy her boyfriend is one of the friends that is gatekeeping and collecting my information to keep it safe who who told me he was trying to help me. Um, and Sorry.
+
+----------------------------------------------------------------------
+ADD-05  Guns a Blazing / Community Methods (Uncensored Truth)
+Episode: 20260906_1nGnRBnpYdXGO  |  Segment 39  |  981.11–1226.18s  |  Speaker 1
+Audio: https://github.com/aiandbotsgalore/copy-spaces-to-youtube-pipeline/releases/download/20260906_1nGnRBnpYdXGO/20260906_1nGnRBnpYdXGO_Uncensored_Truth_Not_Your_Therapist_-_Angela_and_SaraBeth_Truth_Hour.mp3
+
+QUOTE:
+Guns a blazing, wanting to expose this shit because I came into these communities, they talk about it, but they didn't have no evidence. They weren't sharing no documents. They really weren't. And so I just started posting all my documents, all the stuff that I had, like, trying to get people to look at, you know, actual evidence. They didn't care. Well, they did for a period of time. But I didn't have any warnings. I had groups, different groups telling me, don't talk to this person or don't talk to this person. Nobody's going to listen to your story if you talk to A, B, and C. And I still have those DMs. So, like, I had, I didn't understand back then. I'm just looking like, who the fuck do you think you talk to? You're not going to tell me who I'm going to talk to. It's my story. It's my family. It's my life. I can say what I want to. And I don't need your help. You know what I mean? I didn't want it. And so I still have all those messages. But when I go back and I look and I read all this stuff and then I go to my other account when this account was permanently banned and I read those messages and I see how some of y'all shifted characters because you knew I didn't have all the data from my back DMs, you know, from this account. It's weird. It's cringe. And it's gross. And then it shows, like, some of these groups, they all connect. It's insidious. It's dark. These media companies paying people. It's fucking insane. And then they weaponize us. Real survivors. Real whistleblowers. They come in there. They act like they're your friend. They try to trauma bond with you. They try to, like, triangulate you, make you feel. They love bomb. They use all the fucking tactics. It's gross as shit. And then they isolate you, bro. Strategically. It's very calculated. Very slowly. They recycle accounts, like, every three to six months. As soon as you call one out, bro, that account will go away. But then they'll orchestrate another event, make somebody else the villain, and they'll bring that same other person back in. And next thing you know, they're back in the community and, like, nothing ever fucking happened again. And they read scripts, dude. It's fucking insane. You got people. People are exchanging money. That's why they're scared of court. That's the only reason why motherfuckers will be sitting on the internet crying for days on end about something. You can go to the fucking police department, press charges if you're so fucking scared. Or go to the fucking clerk of courts and file a civil court case against me if you're that fucking bothered. Stop with the narrative control. I don't give a shit. That's what I told you I was going to do. That's why all my spaces are recorded because I said it. I say it again. I say it with my whole chest. Every action has a reaction. I am a reactive person. I will never come at you first. I strike harder, but I asked you nicely to just tell the truth. It doesn't have to be gross. It doesn't have to be degrading. And y'all just want content. You're trying to monetize off of people's trauma. Shame on you. And then you want to platform predators and abusers and people that are fucking collecting people's nudes on this app and sharing. Y'all are weird as hell. There is absolutely no excuse for me to be getting somebody else's fucking bondage fucking photos sent to me before it's fucking 9 o'clock in the morning. I had to have coffee. And any of you that know me know how hyper as fuck that I am. Like, like what? That is disturbing. It fucked with my day. I'm not going to lie. Because that's not the first fucking time. I wish I could say it was like the second or third, but no. Like, it's absolutely insane how many different people, male and females, that are blackmailing people on this fucking app. It's weird. It's cringe. I don't want to be friends. Like, I'm not even trying to be mean. Like, and I'm tired of that word right there, friends. So friends should be, like, unconditional, you'd think, right? Like, you'd want to see the people around you succeed and be, like, the best version of themselves. It shouldn't be transactional with terms, limits, and conditions. I don't want to have these type of meaningless, not connected friendships with individuals on here that are just expecting and demanding my energy. But sitting there playing dumb when they see me getting death threats, my kids being exploited. And then I'm sending them the evidence. It's not like it's not in their fucking DMs. They want to play dumb and be, like, I don't want your drama. What? Throwing acid on my face and skinning me alive and leaving my kids in a pool of my blood is drama?
+
+----------------------------------------------------------------------
+ADD-06  Timeline Since 2023 (Oor / Chipper space)
+Episode: 20260913_1lJQRWAWpvVxE  |  Segment 44  |  1268.48–1345.86s  |  Speaker 1
+Audio: https://github.com/aiandbotsgalore/copy-spaces-to-youtube-pipeline/releases/download/20260913_1lJQRWAWpvVxE/20260913_1lJQRWAWpvVxE_Oor_Brought_a_Chipper._Survivors_Brought_Receipts.mp3
+
+QUOTE:
+I mean, I'm just processing. Because I don't think you should just let things go because that makes me complicit, especially when I have documented everything. I have a whole timeline since 2023 around October all the way until now. Multiple profiles because when this account was permanently banned for trying to take down a child predator group. Paradrama is their community. Tina Leroy is the account that threatened to throw acid on my face, skin me alive, leave my kids in a pool of my blood because I defended one of my enemies. Somebody that's been talking shit about me and it's fine. But he was talking about raping her son to death as a infant. And none of the fucking people in that space, there were two other people, none of them with a microphone wanted to say anything about it. So even though I didn't like this bitch at all, I still went up there and defended them and called them all the fuck out because who the fuck? Ew. Y'all are fucking disgusting. But I had screen recorded it. Well, I had a friend screen recorded for me because there was a glitch then that when you had a microphone, when you screen recorded, it wouldn't save the sound. So a friend recorded it for me. And thankfully, I have that clip. It's on my page. I'll repost it. But I had shared that on this account. And that's how they got this account permanently banned. And it wasn't until they banned me from spaces on my alt account that the next day this account was miraculously fixed, which was pretty great.
+
+----------------------------------------------------------------------
+ADD-07  Triangulates / AI Harem (Logan Unmasked)
+Episode: 20260918_1MJgNbdaAPlGL  |  Segment 206  |  7065.89–7193.51s  |  Angela
+Audio: https://github.com/aiandbotsgalore/copy-spaces-to-youtube-pipeline/releases/download/20260918_1MJgNbdaAPlGL/20260918_1MJgNbdaAPlGL_LOGAN_BLACK_UNMASKED_-_WEAPONIZING_WOMEN_ON_UFO_X.mp3
+
+QUOTE:
+you speaking to comprehend, or are you speaking to speak? Just I'm trying to comprehend that. Okay. So the issue is because he is abusive to women in the back channels. He triangulates them against each other. Right? He has this little harem of followers that'll do as he pleases, attack you by proxy just to be able to sit with him in his little AI system. That is my issue. You see something, you say something. Don't be complicit, and don't demonize the people bringing awareness to it either. If a person is brave enough to speak about abuse, listen to them. You don't have to fucking like them to care about them. At the end of the day, I've gone I've gone to war for people on here that have attacked me. I'll just say, like, when this account got permanently banned, I'll use my that as an example. I was defending a woman who had smeared my name for years on here, threatened my life, but she was in a space with the Periscope community, and they were threatening her to rape and kill her son to death. And this is a space of over 200 fucking people, and nobody wanted to grab a mic and say anything. So I did. And I recorded it, and I clipped it, and then I posted that clip asking everyone to mass report these people. They mass reported me and got this account taken down. That's how I lost this account. So when I got this account back, I was like, oh, let me lock it down, gather everything up, put it in my private Discord, save it. And then I go started I got angry. Let's just be real. When you go through your DMs on this account from a conversations that you hadn't had for a whole year, and then you go to your current messages on the other account and you see the lies and how certain people changed characters just so you didn't know who you were talking to, it's manipulative as fuck. I'm sorry, but I don't see how anybody with good intentions that come on this platform for help, um, is gonna walk out unscathed by this community. I I just don't see it. That's my personal experience. It's been nothing but brutal, nasty, humiliation, ritual bullshit. I don't really think anybody cares about disclosure. Right? I really kinda think that they wanna be the next big space host, content creator, monetizing, and profiting off of other survivors' evidence and experiences. I kinda feel like this is a a fast track being Hollywood. A lot of And I'm at war with that.
+
+----------------------------------------------------------------------
+NOT FOUND IN KNOWN SPACE EPISODES (listed for reference only)
+----------------------------------------------------------------------
+- Quote 2  (pattern: 'calling me the liar in real time')
+- Quote 3  (pattern: 'people just be forgetting')
+- Quote 6  (pattern: 'DONT BE MANIC')
+- Quote 9  (pattern: 'burn Logan and all of UFOX')
+- Quote 14 (pattern: 'prepubescent children')
+
+================================================================================
+End of additional full-text segments.
+================================================================================

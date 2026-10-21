@@ -1,0 +1,17 @@
+# Dependencies & Builds
+node_modules/
+dist/
+build/
+
+# Lockfiles & Configs
+package-lock.json
+.env
+.env.*
+!.env.example
+
+# Repomix's own output
+repomix-output.xml
+
+# Tests & Static Assets (optional, but removes a lot of bloat)
+tests/
+public/
